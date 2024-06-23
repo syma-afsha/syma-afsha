@@ -108,7 +108,7 @@
   top:0;
   left: 0;
     width: 100%;
-    min-height: 150vh;
+    min-height: 250vh;
     z-index: -1;
     background-color: black;
   }
