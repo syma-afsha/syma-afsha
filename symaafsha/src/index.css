@@ -1,0 +1,26 @@
+
+
+
+body {
+
+background: center fixed;
+display: block;
+  margin: auto;
+ 
+position: relative;
+overflow-x: hidden;
+
+width: 100vw;
+min-height: 100vh;
+
+overflow-y: scroll ;
+
+ 
+
+
+  /* animation: gradient 4s ease infinite; */
+
+}
+
+  
+

@@ -1,0 +1,289 @@
+@media (min-width: 800px) {
+  .icons-about{
+    width: 50px;
+    height: 50px;
+    
+  }
+.AboutBody {
+  box-sizing: border-box;
+  background-color: black;
+
+  font-family: serif;
+  min-height: 150vh;
+  width: 100%;
+  margin-left: 1%;
+}
+
+
+
+.tabs:first-child {
+  margin-left: 0;
+}
+
+@keyframes glow {
+  0% {
+    box-shadow: 0 0 5px #ff6347;
+  }
+  50% {
+    box-shadow: 0 0 20px #ff6347;
+  }
+  100% {
+    box-shadow: 0 0 5px #ff6347;
+  }
+}
+
+.github-icon {
+  animation: glow 1.5s infinite;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.github-icon:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 20px #ff6347;
+}
+
+
+
+
+
+
+
+.tab-list {
+
+
+  display: flex;
+  list-style: none;
+
+
+
+  text-decoration: none;
+}
+
+.tabs {
+
+  margin-top: 5%;
+  padding: 30px;
+  background-color: rgb(24, 26, 30);
+  border: 1px rgba(255, 255, 255, .15) solid;
+  
+  box-shadow: 0px 3px 10px rgba(255, 255, 255, .1);
+  /* border-bottom: 5px rgba(255,255,255,.1) solid; */
+  color: white;
+  font-size: 20px;
+  width: max-content;
+  float: left;
+  border-radius: 15px;
+  margin-left: 15px;
+  position: relative;
+
+  transition: box-shadow .5s ease 0s, top .5s ease 0s, border .5s ease 0s, color .5s ease 0s;
+  top: 0;
+  display: flex;
+  background-color: black;
+  text-align: center;
+}
+.image-about{
+
+width: 65%;
+  min-height: 60%;
+ border-radius: 15px;
+
+
+
+}
+
+
+.tabs:hover {
+  cursor: pointer;
+  box-shadow: 0px 6px 15px rgba(255, 255, 255, .5);
+  border-radius: 15px;
+  top: -3px;
+
+  border: 1px rgba(255, 255, 255, .3) solid;
+  color: rgba(101, 30, 255, 0.5);
+  /* border-bottom: 5px rgba(255,255,255,.3) solid; */
+}
+
+.active-tabs {
+ 
+  
+  /* border-bottom: 5px rgba(255, 33, 33, 1) solid; */
+  box-shadow: 0px 6px 15px rgba(101, 30, 255, 0.5);
+  border: 1px rgba(101, 30, 255, 0.5) solid;
+  top: -3px;
+  color: white;
+  background-color: black;
+}
+
+.active-tabs::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% + 2px);
+  height: 4px;
+  border-radius: 15px;
+  /* border-bottom: 5px rgba(255, 33, 33, 1) solid; */
+  box-shadow: 0px 6px 15px rgba(101, 30, 255, 0.5);
+ 
+
+  color: white;
+}
+
+.content {
+
+  display: none;
+ 
+  margin-top: 2%;
+
+  text-align: justify;
+  font-size: 22px;
+  margin-left: 4%;
+margin-right: 5%;
+  color: white;
+word-spacing: 3px;
+  color: white;
+  box-sizing: border-box;
+  background-color: black;
+  border: 1px;
+
+
+}
+
+.about-experience{
+  width: 60%;
+}
+.icon-about{
+  width: 50px;
+  height: 50px;
+}
+.active-content {
+  display: block;
+}
+.AboutMobileBody{
+  display: none;
+
+}
+}
+@media (max-width: 800px) {
+  .icon-about{
+    width: 30px;
+    height: 30px;
+  }
+  .AboutMobileBody{
+   
+    box-sizing: border-box;
+    background-color: black;
+  
+    font-family: serif;
+    min-height: 200vh;
+    width: 100%;
+  
+  }
+  .ab{
+    height: 550px;
+  }
+ .content-container {
+
+ 
+  margin-top: 8%;
+
+  text-align: justify;
+  font-size: 18px;
+  margin-left: 5%;
+margin-right: 5%;
+  color: white;
+
+
+  
+  background-color: black;
+  
+
+
+}
+  .AboutBody {
+  display:none;
+   
+  }
+  .tabs:first-child {
+    margin-left: 0;
+    display: none;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  .tab-list {
+  
+  
+    display: none;
+  
+  }
+  
+  .tabs {
+    display: none;
+  
+  }
+  .image-about{
+  display:none;
+  }
+  
+  
+  
+  .active-tabs::before {
+   display: none
+  }
+  
+  .content {
+  
+
+   
+  display:none;
+  
+  
+  }
+  .about-experience{
+    display:none
+  }
+ 
+  .active-content {
+    display: none;
+  }
+  .tabs-list{
+   
+padding-top:10%;
+     
+      background-color: rgb(24, 26, 30);
+text-decoration: underline;
+      
+     
+      /* border-bottom: 5px rgba(255,255,255,.1) solid; */
+      color: #d4ce1e;
+      font-size: 20px;
+      width: max-content;
+   
+     
+  
+      transition: box-shadow .5s ease 0s, top .5s ease 0s, border .5s ease 0s, color .5s ease 0s;
+    
+    
+      background-color: black;
+      text-align: center;
+    
+  }
+  .about-header{
+    text-align: center;
+    padding-top: 5%;
+    color: white;
+   text-decoration: underline;
+    font-size: 28px;
+    font-family: serif;
+  }
+
+}
