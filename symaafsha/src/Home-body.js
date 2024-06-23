@@ -35,7 +35,7 @@ export default function HomeBody(){
               <br/>
               
               <Card.Text className='about-text'> 
-              I am currently enrolled in the Erusmus Mundus Joint Master in Robotics and Intelligent Systems (IFRos), coordinated by the Universitat de Girona (UdG), Spain, in collaboration with the University of Zagreb (UNIZG), Croatia, and the Eötvös Loránd University (ELTE), Hungary.
+              I am currently enrolled in the Erusmus Mundus Joint Master in Intelligent Field Robotic Systems (IFRos), coordinated by the Universitat de Girona (UdG), Spain, in collaboration with the University of Zagreb (UNIZG), Croatia, and the Eötvös Loránd University (ELTE), Hungary.
 
 For the first two semesters, I attended courses at the Universitat de Girona (UdG), where I gained comprehensive knowledge and hands-on experience in Robotics and Intelligent systems. From September 2024, I will continue my studies for the third semester at the Eötvös Loránd University (ELTE), Hungary, further expanding my expertise and practical skills in this dynamic field. I received my Bachelor of Science (B.Sc.) degree from the Department of Electrical, Electrical and Communication Engineering (EECE) at the Military Institute of Science and Technology (MIST), Bangladesh. <br/>
                 <br/> My areas of interest in terms of research are Mobile Robotics, Autonomous Vehicle (AV), Machine Learning (ML), Computer Vision (CV), and Natural Language Processing (NLP). Currently, I am working on Vision Transformer (ViT) based object detection, which is an advanced approach in the field of Computer Vision.  
