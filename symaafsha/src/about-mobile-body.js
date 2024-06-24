@@ -277,7 +277,7 @@ Company Limited (DESCO)</h><br/>
                                 software-based attendance collection. <i style={{ color: 'yellow' }}>2020</i></li>
                             <li>Soil moisture detection and Plant watering system using Arduino. <i style={{ color: 'yellow' }}>2019</i> </li>
                         </ul>
-                        <h2 style={{color: "#00FFFF", textAlign: "center", fontSize: 20 , textShadow: "2px 2px 4px #000000" ,fontFamily: "Lobster, cursive" }}>
+                        <h2 style={{color: "#00FFFF", textAlign: "center", fontSize: 20 , textShadow: "2px 2px 4px #000000" ,fontFamily: "Lobster, Segoe UI" }}>
     <u>
         <b>
             Unlock My Project Gallery: 
