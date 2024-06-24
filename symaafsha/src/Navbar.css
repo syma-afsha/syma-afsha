@@ -89,7 +89,7 @@ color: black;
    align-items: center;
    justify-content: center;
    align-self: center;
- margin-left:35px;
+ margin-left:25px;
     width: 40px;
     height: 40px;
  
@@ -491,7 +491,7 @@ margin-top:15px;
   font-family: "Inconsolata", Sans-serif;
   color: black;
   margin-top:4%;
-  margin-left: 12%;
+  margin-left: 10%;
   word-spacing: 8px;
 }
 
