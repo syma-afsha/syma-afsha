@@ -22,6 +22,7 @@
 .card-research {
    margin-left:25%;
    margin-top: 5%;
+   margin-bottom: 5%;
    border: 2px solid white;
    animation: 1s ease-out 1s 1 slideInLeft;
     transition: 0.3s;
