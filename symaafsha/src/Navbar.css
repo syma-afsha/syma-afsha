@@ -295,7 +295,7 @@ margin-top:15px;
       
 }  
       
-@media (min-width: 800px) {
+@media (min-width: 767px) {
   .navbar {
     position: sticky;
     top: 0;
