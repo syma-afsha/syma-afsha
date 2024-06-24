@@ -5,6 +5,7 @@ import linkedinIcon from "./image/footer-linkedin.png";
 import researchgateIcon from "./image/footer-researchgate.png";
 import mailIcon from './image/footer-mail.png';
 import googleScholarIcon from "./image/googlescholar.png"
+import github from "./image/github.png"
 
  function Footer(){
     return(
@@ -40,6 +41,13 @@ import googleScholarIcon from "./image/googlescholar.png"
               
             />
             </a>
+            <a className='footer-icon' href="https://github.com/syma-afsha/symaafsha" target="_blank">
+        <img
+              src={github}
+              alt="Github"
+              
+            />
+            </a>
             <a className='footer-icon' href="https://scholar.google.com/citations?hl=en&user=W-tNEtEAAAAJ" target="_blank">
         <img
               src={googleScholarIcon}
@@ -47,7 +55,6 @@ import googleScholarIcon from "./image/googlescholar.png"
               
             />
             </a>
-           
             </Container>
         </Col>
     </Row>
