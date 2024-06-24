@@ -84,6 +84,7 @@ margin-right: 2px;
     font-size: 20px;
 
   }
+
   .list-research1{
     
     color: white;
@@ -313,7 +314,9 @@ margin-right: 2px;
 .container{
     text-align: justify;
 }
-
+.new-container{
+  margin-top: 5%;
+}
 }
 @keyframes slideInLeft {
     0% {

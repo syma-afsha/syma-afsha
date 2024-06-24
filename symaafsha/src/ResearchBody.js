@@ -132,7 +132,7 @@ Information Communication Technology (ICEEICT).</p>
                 </div>
 
                 
-                <div style={{marginTop:"30px"}} className="research-container">
+                <div style={{marginTop:"30px"}} className="new-container">
                 <Row>
 
 <Col xs={12} md={4} lg={4}>
