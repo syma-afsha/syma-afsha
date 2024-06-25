@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Badge1 from "./image/badge(1).png"
-import { FaGithub } from 'react-icons/fa';
+
 import "./about.css"
 import Badge from "./image/badge.png";
 import EU from "./image/erusmus.png";

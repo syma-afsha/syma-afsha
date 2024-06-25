@@ -1,11 +1,6 @@
 import React from "react";
 import "./research.css";
-import {Row, Col, Button} from "react-bootstrap"
-import Paper from "./image/flowchart-new.png";
-import SignPaper from "./image/signpaper.jpg"
-import Violent from "./image/violent.png"
-import AV from  "./image/re.png"
-import Journal from  "./image/re1.png"
+import { FaGithub } from 'react-icons/fa';
 export default function ProjecthBody(){
     return(
         <div className="Projectbody">
