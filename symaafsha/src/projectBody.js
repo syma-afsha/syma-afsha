@@ -4,8 +4,8 @@ import { FaGithub } from 'react-icons/fa';
 export default function ProjecthBody(){
     return(
         <div className="Projectbody">
-            <div className="research-container">
-            <p className="research-text"><b>Project Highlights</b></p>
+            <div className="project-container">
+            <p className="project-text"><b>Project Highlights</b></p>
             <div>
             <ul style={{ listStyleType: "circle" }}>
                             <li > DiscoverBot: Advancing Autonomous Exploration through Frontier and Informed-RRT* Fusion in TurtleBot. <i style={{ color: 'yellow' }}>2024</i></li>

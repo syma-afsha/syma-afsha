@@ -1,0 +1,64 @@
+@media (min-width: 767px) {
+
+
+    .Projectbody{
+        box-sizing: border-box;
+        background-color: black;
+      min-height: 500vh;
+        font-family: serif;
+       
+        width: 100%;
+       
+    }
+    .project-text{
+        font-size: 30px;
+        color: whitesmoke;
+        text-decoration: underline;
+        padding-top:2%;
+      
+        text-align: center;
+    }
+    
+    
+    }
+    @media (max-width: 800px) {
+      
+        .projectbody{
+            box-sizing: border-box;
+            background-color: black;
+          
+            font-family: serif;
+            height: 680vh;
+            width: 100%;
+            
+        }
+        
+    
+    .project-text{
+        font-size: 25px;
+        color: whitesmoke;
+        text-decoration: underline;
+        padding-top:2%;
+       
+        text-align: center;
+    }
+    
+   
+    }
+    @keyframes slideInLeft {
+        0% {
+          transform: translateX(-100%);
+        }
+        100% {
+          transform: translateX(0);
+        }
+      }
+      
+      @keyframes slideInRight {
+        0% {
+          transform: translateX(100%);
+        }
+        100% {
+          transform: translateX(0);
+        }
+      }
