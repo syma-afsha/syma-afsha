@@ -25,7 +25,7 @@ export default function PublicationBody(){
      <p style={{color: "yellow"}}><u>2023</u></p>
      <li> MM. Sazid, <h style={{color:"aqua"}}>S. Afsha </h>, <b>“Advanced Driving Assistance System using Computer Vision and Deep Learning Algorithms,”</b>  2023 Third International Conference on Ubiquitous Computing and Intelligent Information Systems (ICUIS). IEEE, 2023. [ <a  style={{color: "#cf2e2e", textDecoration: "none"}} href="https://ieeexplore.ieee.org/abstract/document/10505952" target="_blank"><i><u>Paper</u> </i> </a>]
 <i> ( Cite: <a style={{color: "#cf2e2e"}} href="https://scholar.googleusercontent.com/scholar.bib?q=info:1HF1YyVfE3kJ:scholar.google.com/&output=citation&scisdr=ClFkj-laEPfUmdUrHmw:AFWwaeYAAAAAZngtBmw4YLKPh7eNCIR5lvJOXPs&scisig=AFWwaeYAAAAAZngtBktD4uy36dVXqBAzgAS27Zw&scisf=4&ct=citation&cd=-1&hl=en" target="_blank">BibTeX</a> <b>,</b> <a   style={{color: "#cf2e2e", textDecoration: "none"}} href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Advanced+Driving+Assistance+System+using+Computer+Vision+and+Deep+Learning+Algorithms.&btnG=" target="_blank"><u>Scholar</u> </a> )</i>
-</li>
+</li><br/>
 <p style={{color: "yellow"}}><u>2022</u></p>
             <li> <h style={{color:"aqua"}}>S. Afsha </h>, M. Haque and H. Nyeem, <b>“Machine Learning Models for Content Classification in Film
 Censorship and Rating,”</b>  2022 International Conference on Innovations in Science, Engineering and
