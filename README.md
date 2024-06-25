@@ -1,5 +1,5 @@
 
-# Hello, World! I'm Syma Afsha – Robotics Engineer!
+# Hello, World!👋 I'm Syma Afsha – Robotics Engineer!🤖
 
 <div style="color: #FFA500; fontSize:20">
 Welcome to my Github profile! 🌟 Here, I build robots that can smoothly move around obstacles, find their way, and handle objects with ease—bringing science fiction to life!
