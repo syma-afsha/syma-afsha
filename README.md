@@ -1,6 +1,6 @@
 #### Hello, World!👋 I'm Syma Afsha 🎈
 
-<div style="color: "#FFA500"; font-size:"20px";">
+<div style="color: "#FFA500">
 Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build robots that can smoothly move around obstacles, find their way, and handle objects with ease—bringing science fiction to life!
 </div>
 
