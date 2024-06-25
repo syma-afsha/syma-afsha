@@ -15,6 +15,7 @@ import {
 } from "react-router-dom";
 import Research from './research';
 import Publication from './publication';
+import Project from './project';
 
 
 
