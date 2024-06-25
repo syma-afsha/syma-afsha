@@ -15,7 +15,7 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 ### 📢 How to reach me: <a href="mailto:symaafsha.eece@gmail.com"><img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-mail.png" alt="Email" style="width:30px; height:30px;"></a>
 ### 😄 Pronouns: She/Her
 ### 🎉 Fun fact: I love making websites.
-### 🤝 Connect with Me
+### 📫 Connect with Me
 <a href="https://www.linkedin.com/in/syma-afsha/" target="_blank">
     <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-linkedin.png" alt="LinkedIn" style="width:30px; height:30px;">
 </a>
@@ -46,5 +46,5 @@ For more about my projects, achievements, and professional journey, take a tour 
 ![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&theme=tokyonight)
 
 <div style="color: #00BFFF;">
-<img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/robot.png" alt="LinkedIn" style="width:30px; height:30px;">  Thank you for stopping by! If you’re excited by the mix of tech and creativity, let’s chat and see what amazing things we can build together.
+<img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/robot.png" alt="LinkedIn" style="width:30px; height:30px;">  Thank you for stopping by! If you’re excited by the mix of tech and creativity, let’s chat and see what amazing things we can build together 🤝.
 </div>
