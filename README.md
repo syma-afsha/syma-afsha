@@ -1,4 +1,4 @@
-#### Hello, World!👋 I'm Syma Afsha <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/robot.png" alt="LinkedIn" style="width:30px; height:30px;"> 
+#### Hello, World!👋 I'm Syma Afsha 🎈
 
 <div style="color: "#FFA500">
 Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build robots that can smoothly move around obstacles, find their way, and handle objects with ease—bringing science fiction to life!
@@ -46,5 +46,5 @@ For more about my projects, achievements, and professional journey, take a tour 
 ![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&theme=tokyonight)
 
 <div style="color: #00BFFF;">
-Thank you for stopping by! If you’re excited by the mix of tech and creativity, let’s chat and see what amazing things we can build together.
+<img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/robot.png" alt="LinkedIn" style="width:30px; height:30px;">  Thank you for stopping by! If you’re excited by the mix of tech and creativity, let’s chat and see what amazing things we can build together.
 </div>
