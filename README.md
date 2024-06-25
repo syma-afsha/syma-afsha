@@ -1,7 +1,7 @@
 #### Hello, World!👋 I'm Syma Afsha 🎈
 
 <div style="color: "red";">
-Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build robots that can smoothly move around obstacles, find their way, and handle objects with ease—bringing science fiction to life!
+Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build robots that can smoothly move around obstacles, localize themselves, and handle objects with ease—bringing science fiction to life!
 </div>
 
 ## <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/ai.png" alt="LinkedIn" style="width:30px; height:30px;"> A Bit About Me
