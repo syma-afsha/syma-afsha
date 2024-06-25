@@ -23,6 +23,7 @@ function Navbar() {
       <ul className="nav-links">
         <li><Link className='navbar-link' to="/">Home</Link></li>
         <li><Link className='navbar-link' to="/about-me"> About</Link></li>
+        <li><Link className='navbar-link ' to="/publication">Project</Link></li>
         <li><Link className='navbar-link ' to="/research">Research</Link></li>
         <li><Link className='navbar-link ' to="/publication">Publication</Link></li>
         <li><a className='nav-icon' href="mailto: symaafsha.eece@gmail.com" target="_blank">
