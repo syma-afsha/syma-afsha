@@ -49,12 +49,7 @@ export default function AboutBody() {
                     >
                         Experience
                     </li>
-                    <li
-                        className={`tabs ${getActiveClass(5, "active-tabs")}`}
-                        onClick={() => toggleTab(5)}
-                    >
-                        Project
-                    </li>
+                 
                     <li
                         className={`tabs ${getActiveClass(6, "active-tabs")}`}
                         onClick={() => toggleTab(6)}
