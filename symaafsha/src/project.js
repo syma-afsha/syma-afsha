@@ -5,7 +5,7 @@ import Footer from "./Footer";
 import ProjectBody from './projectBody';
 
 
-function About(){
+function Project(){
     return(
        
     <div className="Project" style={{backgroundColor: "black"}}>
@@ -18,4 +18,4 @@ function About(){
 
     )
 }
-export default About;
+export default Project;
