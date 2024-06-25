@@ -1,4 +1,5 @@
-# # Hello, World! I'm Syma Afsha – Robotics Engineer ![Syma Afsha](https://miro.medium.com/v2/resize:fit:1200/1*_3dXYgCD2FrcSAkLmmK1cw.jpeg)
+# Hello, World! I'm Syma Afsha – Robotics Engineer ![Robot Emoji](https://www.flaticon.com/free-icon/robot_3558860)
+
 
 
 Welcome to my digital workshop! 🌟 Here, I build robots that can smoothly move around obstacles, find their way, and handle objects with ease—bringing science fiction to life!
