@@ -1,4 +1,4 @@
-# Hello, World! I'm Syma Afsha – Robotics Engineer ![Robot Emoji]([https://github.com/yourusername/yourrepositoryname/blob/main/image.png](https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/robot.png))
+# Hello, World! I'm Syma Afsha – Robotics Engineer ![Robot Emoji](https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/robot.png)
 
 
 
