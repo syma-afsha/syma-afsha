@@ -34,6 +34,7 @@ export default class App extends Component {
 
           <Route exact path="/" element={<Home />} />
           <Route path="/about-me" element={<About />} />
+          <Route path="/project" element={<Project/>} />
           <Route path="/research" element={<Research />} />
           <Route path="/publication" element={<Publication />} />
         </Routes>
