@@ -71,7 +71,7 @@ export default function AboutBody() {
                             <h> < img src= {Cap} alt="badge" className="icons-about"  />  <u>Master of Science (M.Sc.)</u></h>
                             
                             <p style={{marginLeft:55}}>IFRos Master programme is coordinated by the Universitat de Girona (UdG, Spain) together with the University of Zagreb (UNIZG, Croatia) and the Eötvös Loránd University (ELTE, Hungary). </p>
-                                    <p style={{marginLeft:55}}>Erusmus Mundus Joint Master in Intelligent Field Robotic Systems (IFRos)</p>
+                                    <p style={{marginLeft:55}}>Erasmus Mundus Joint Master in Intelligent Field Robotic Systems (IFRos)</p>
 
                                     <p style={{marginLeft:55}}>Europe</p>
                                     <p style={{marginLeft:55}}><i>2023-2025</i></p>
