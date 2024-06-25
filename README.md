@@ -17,13 +17,13 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 ### 🎉 Fun fact: I love making websites.
 ## 🤝 Connect with Me
 <a href="https://www.linkedin.com/in/syma-afsha/" target="_blank">
-    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-linkedin.png" alt="LinkedIn" style="width:20px; height:20px;">
+    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-linkedin.png" alt="LinkedIn" style="width:30px; height:30px;">
 </a>
 <a href="https://www.researchgate.net/profile/Syma-Afsha" target="_blank">
-    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-researchgate.png" alt="ResearchGate" style="width:20px; height:20px;">
+    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-researchgate.png" alt="ResearchGate" style="width:30px; height:30px;">
 </a>
  <a href="https://scholar.google.com/citations?hl=en&user=W-tNEtEAAAAJ" target="_blank">
-    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/googlescholar.png" alt="Google Scholar" style="width:20px; height:20px;">
+    <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/googlescholar.png" alt="Google Scholar" style="width:30px; height:30px;">
 </a>
 
 ### 🛠️ Technical Skills
