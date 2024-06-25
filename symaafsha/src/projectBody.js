@@ -1,5 +1,5 @@
 import React from "react";
-import "./research.css";
+import "./project.css";
 import { FaGithub } from 'react-icons/fa';
 export default function ProjecthBody(){
     return(
