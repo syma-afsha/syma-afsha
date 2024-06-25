@@ -5,10 +5,10 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 </div>
 
 ## 🤖 A Bit About Me
-## 🌱 I’m Currently Learning
+### 🌱 I’m Currently Learning
 - Vision Transformer.
 - Reinforcement Learning.
-## 👯 I’m Looking to Collaborate On
+### 👯 I’m Looking to Collaborate On
 - Computer Vision Projects
 - Deep Learning Algorithms
 - Advanced Techniques in Path Planning.
@@ -20,7 +20,7 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 - **ResearchGate**: [https://www.researchgate.net/profile/Syma-Afsha]
 - **Google Scholar**: [https://scholar.google.com/citations?hl=en&user=W-tNEtEAAAAJ]
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 Here are some of the technologies I enjoy working with:
 
 - **MS Office**: MS Word, MS PowerPoint, MS Excel
@@ -35,7 +35,7 @@ Here are some of the technologies I enjoy working with:
 - **Version Control**: Git
 - **Computer Vision**: MATLAB, OpenCV
 
-## 🌍 Visit My Personal Site
+### 🌍 Visit My Personal Site
 For more about my projects, achievements, and professional journey, take a tour of my digital portfolio here: [Syma Afsha](https://syma-afsha.github.io/syma-afsha/).
 
 ## 📈 My GitHub Statistics
