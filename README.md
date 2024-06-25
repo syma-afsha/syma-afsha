@@ -12,7 +12,7 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 - Computer Vision Projects
 - Deep Learning Algorithms
 - Advanced Techniques in Path Planning.
-### 📢 How to reach me:  [![Email] (https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-mail.png)(mailto:symaafsha.eece@gmail.com)
+### 📢 How to reach me: [![Email](https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-mail.png)](mailto:symaafsha.eece@gmail.com)
 ### 😄 Pronouns: She/Her
 ### 🎉 Fun fact: I love making websites.
 ## 🤝 Connect with Me
