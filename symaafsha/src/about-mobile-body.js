@@ -264,7 +264,7 @@ Company Limited (DESCO)</h><br/>
                             <li > PoseNet: Real-time Camera Pose Estimation in Stonefish (ROS) with ArUco Markers for TurtleBot. <i style={{ color: 'yellow' }}>2024</i></li>
                             <li > RoboPick: Task Prioritized Object Manipulation on TurtleBot with 4 DOF Arm, Utilizing ArUco-based Object Detection. <i style={{ color: 'yellow' }}>2024</i></li>
                             <li > Set up a ROS Environment in Gazebo for Autonomous Object Pick-and-Place Using Behavior Trees with a Simulated TurtleBot3. <i style={{ color: 'yellow' }}>2024</i></li>
-                            <li > Implemented an RRT* Path Planner with Low-Level Control in ROS and Gazebo to Navigate from Start to Goal. <i style={{ color: 'yellow' }}>2024</i></li>
+                            <li > Implemented an RRT* Path Planner with with Occupancy Grid Map and Low-Level Controller in ROS and Gazebo to Navigate from Start to Goal. <i style={{ color: 'yellow' }}>2024</i></li>
                             <li>Worked on Sign Language Translation Module, Violence Detection Module and Film Censorship and Rating
                                 Module. <i style={{ color: 'yellow' }}>2021-2023</i></li>
                             <li > Developed a website for remote sensing using IoT for a research group at the University of New Hampshire, New
