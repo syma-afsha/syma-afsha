@@ -12,9 +12,9 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 - Computer Vision Projects
 - Deep Learning Algorithms
 - Advanced Techniques in Path Planning.
-## 📢 How to reach me: [symaafsha.eece@gmail.com]
-## 😄 Pronouns: She/Her
-## 🎉 Fun fact: I love making websites
+### 📢 How to reach me: [📧](mailto:symaafsha.eece@gmail.com)
+### 😄 Pronouns: She/Her
+### 🎉 Fun fact: I love making websites.
 ## 🤝 Connect with Me
 - **LinkedIn**: [https://www.linkedin.com/in/syma-afsha/]
 - **ResearchGate**: [https://www.researchgate.net/profile/Syma-Afsha]
@@ -36,7 +36,7 @@ Here are some of the technologies I enjoy working with:
 - **Computer Vision**: MATLAB, OpenCV
 
 ## 🌍 Visit My Personal Site
-For more about my projects, achievements, and professional journey, take a tour of my digital portfolio here: [Syma Afsha's Portfolio](https://syma-afsha.github.io/syma-afsha/).
+For more about my projects, achievements, and professional journey, take a tour of my digital portfolio here: [Syma Afsha](https://syma-afsha.github.io/syma-afsha/).
 
 ## 📈 My GitHub Statistics
 ![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&theme=tokyonight)
