@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/symaafsha/static/css/main.520b4f23.css",
-    "main.js": "/symaafsha/static/js/main.637fa130.js",
-    "static/media/re1.png": "/symaafsha/static/media/re1.20addd7c0c887ab4a6db.png",
-    "static/media/cv.png": "/symaafsha/static/media/cv.5df56981f540c2034939.png",
-    "static/media/violent.png": "/symaafsha/static/media/violent.f1d2af54f0f4cda7bf30.png",
-    "static/media/MIST.png": "/symaafsha/static/media/MIST.5a94c00ee1b82aaa0316.png",
-    "static/media/badge.png": "/symaafsha/static/media/badge.fe89623987083b159a8e.png",
-    "static/media/github.png": "/symaafsha/static/media/github.251d222ad80f9fc58461.png",
-    "static/media/signpaper.jpg": "/symaafsha/static/media/signpaper.cee20e28285ad08f50f6.jpg",
-    "static/media/footer-mail.png": "/symaafsha/static/media/footer-mail.28a60d1295c7895a8dfd.png",
-    "static/media/badge(1).png": "/symaafsha/static/media/badge(1).0d9caf41dd4164898b00.png",
-    "static/media/flowchart-new.png": "/symaafsha/static/media/flowchart-new.11af6507761f736eb1f7.png",
-    "static/media/erusmus.png": "/symaafsha/static/media/erusmus.579684ae2341bdd10d74.png",
-    "static/media/CVIcon.png": "/symaafsha/static/media/CVIcon.12e203ea8435fd26214e.png",
-    "static/media/pdf.png": "/symaafsha/static/media/pdf.b4529524a8d07b0443fa.png",
-    "static/media/cap.png": "/symaafsha/static/media/cap.8b778ce754960a208943.png",
-    "static/media/googlescholaricon.png": "/symaafsha/static/media/googlescholaricon.e75ae125217c12c862fc.png",
-    "static/media/re.png": "/symaafsha/static/media/re.24328668d17129fc9080.png",
-    "static/media/googlescholar.png": "/symaafsha/static/media/googlescholar.8ceb28e2cbac988bb13f.png",
-    "index.html": "/symaafsha/index.html",
-    "main.520b4f23.css.map": "/symaafsha/static/css/main.520b4f23.css.map",
-    "main.637fa130.js.map": "/symaafsha/static/js/main.637fa130.js.map"
+    "main.css": "/syma-afsha/static/css/main.520b4f23.css",
+    "main.js": "/syma-afsha/static/js/main.c4171f2f.js",
+    "static/media/re1.png": "/syma-afsha/static/media/re1.20addd7c0c887ab4a6db.png",
+    "static/media/cv.png": "/syma-afsha/static/media/cv.5df56981f540c2034939.png",
+    "static/media/violent.png": "/syma-afsha/static/media/violent.f1d2af54f0f4cda7bf30.png",
+    "static/media/MIST.png": "/syma-afsha/static/media/MIST.5a94c00ee1b82aaa0316.png",
+    "static/media/badge.png": "/syma-afsha/static/media/badge.fe89623987083b159a8e.png",
+    "static/media/github.png": "/syma-afsha/static/media/github.251d222ad80f9fc58461.png",
+    "static/media/signpaper.jpg": "/syma-afsha/static/media/signpaper.cee20e28285ad08f50f6.jpg",
+    "static/media/footer-mail.png": "/syma-afsha/static/media/footer-mail.28a60d1295c7895a8dfd.png",
+    "static/media/badge(1).png": "/syma-afsha/static/media/badge(1).0d9caf41dd4164898b00.png",
+    "static/media/flowchart-new.png": "/syma-afsha/static/media/flowchart-new.11af6507761f736eb1f7.png",
+    "static/media/erusmus.png": "/syma-afsha/static/media/erusmus.579684ae2341bdd10d74.png",
+    "static/media/CVIcon.png": "/syma-afsha/static/media/CVIcon.12e203ea8435fd26214e.png",
+    "static/media/pdf.png": "/syma-afsha/static/media/pdf.b4529524a8d07b0443fa.png",
+    "static/media/cap.png": "/syma-afsha/static/media/cap.8b778ce754960a208943.png",
+    "static/media/googlescholaricon.png": "/syma-afsha/static/media/googlescholaricon.e75ae125217c12c862fc.png",
+    "static/media/re.png": "/syma-afsha/static/media/re.24328668d17129fc9080.png",
+    "static/media/googlescholar.png": "/syma-afsha/static/media/googlescholar.8ceb28e2cbac988bb13f.png",
+    "index.html": "/syma-afsha/index.html",
+    "main.520b4f23.css.map": "/syma-afsha/static/css/main.520b4f23.css.map",
+    "main.c4171f2f.js.map": "/syma-afsha/static/js/main.c4171f2f.js.map"
   },
   "entrypoints": [
     "static/css/main.520b4f23.css",
-    "static/js/main.637fa130.js"
+    "static/js/main.c4171f2f.js"
   ]
 }
