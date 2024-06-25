@@ -73,7 +73,7 @@
   width: max-content;
   float: left;
   border-radius: 15px;
-  /* margin-left: 15px; */
+  margin-left: 20px;
   position: relative;
 
   transition: box-shadow .5s ease 0s, top .5s ease 0s, border .5s ease 0s, color .5s ease 0s;
