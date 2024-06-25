@@ -8,7 +8,7 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 ### 🌱 I’m Currently Learning
 - Vision Transformer.
 - Reinforcement Learning.
-### 👯 I’m Looking to Collaborate On
+### 🚀 I’m Looking to Collaborate On
 - Computer Vision Projects
 - Deep Learning Algorithms
 - Advanced Techniques in Path Planning.
@@ -21,8 +21,6 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 - **Google Scholar**: [https://scholar.google.com/citations?hl=en&user=W-tNEtEAAAAJ]
 
 ### 🛠️ Technical Skills
-Here are some of the technologies I enjoy working with:
-
 - **MS Office**: MS Word, MS PowerPoint, MS Excel
 - **Programming Languages**: Python, C, MATLAB, Dart, JavaScript, Verilog HDL
 - **Operating System**: Robot Operating System (ROS)
