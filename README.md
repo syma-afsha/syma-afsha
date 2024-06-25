@@ -6,5 +6,5 @@ Welcome to my Github profile! 🌟 Here, I build robots that can smoothly move a
 </div>
 
 <div style="color: #00BFFF;">
-Thank you for stopping by! Dive into my repositories to see the robots of tomorrow being built today. Let’s connect to discuss innovations, collaborations, and the future of robotics.
+Thank you for stopping by! If you’re excited by the mix of tech and creativity, let’s chat and see what amazing things we can build together..
 </div>
