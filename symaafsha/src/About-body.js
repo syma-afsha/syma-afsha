@@ -51,8 +51,8 @@ export default function AboutBody() {
                     </li>
                  
                     <li
-                        className={`tabs ${getActiveClass(6, "active-tabs")}`}
-                        onClick={() => toggleTab(6)}
+                        className={`tabs ${getActiveClass(5, "active-tabs")}`}
+                        onClick={() => toggleTab(5)}
                     >
                         Awards & Honors
                     </li>
@@ -288,7 +288,7 @@ Company Limited (DESCO)</h><br/>
                     </div>
  
 
-                    <div className={`content ${getActiveClass(6, "active-content")}`}>
+                    <div className={`content ${getActiveClass(5, "active-content")}`}>
                     <Row>
                             <Col xs={1} md={1} lg={1}>
                             <img src= {EU} alt="EU" className="icon-about"  style={{marginLeft:30}}/>
