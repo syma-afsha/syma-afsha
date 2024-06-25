@@ -41,7 +41,7 @@ import github from "./image/github.png"
               
             />
             </a>
-            <a className='footer-icon' href="https://github.com/syma-afsha/symaafsha" target="_blank">
+            <a className='footer-icon' href="https://github.com/syma-afsha/" target="_blank">
         <img
               src={github}
               alt="Github"
