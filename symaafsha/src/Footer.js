@@ -15,9 +15,9 @@ import Profile from './profile';
     <Row>
         <Col xs={12} md={9} lg={9}>
             <h1 className='footer-text'>© 2023, Syma Afsha. All RIghts Reserved.</h1>
-            <div className="App">
-      <Profile profileId="12345" />
-    </div>
+            
+      <Profile />
+   
             {/* <h1 style={{marginTop:1}}className='footer-text' >Thank you for visiting my website.</h1> */}
         </Col>
         <Col xs={12} md={3} lg={3}>
