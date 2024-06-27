@@ -6,7 +6,7 @@ import researchgateIcon from "./image/footer-researchgate.png";
 import mailIcon from './image/footer-mail.png';
 import googleScholarIcon from "./image/googlescholar.png"
 import github from "./image/github.png"
-import Profile from './profile';
+
 
  function Footer(){
     return(
@@ -16,7 +16,7 @@ import Profile from './profile';
         <Col xs={12} md={9} lg={9}>
             <h1 className='footer-text'>© 2023, Syma Afsha. All RIghts Reserved.</h1>
             
-      <Profile />
+ 
    
             {/* <h1 style={{marginTop:1}}className='footer-text' >Thank you for visiting my website.</h1> */}
         </Col>
