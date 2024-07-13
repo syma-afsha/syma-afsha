@@ -54,8 +54,8 @@
 
 
 import React, { useState } from 'react';
-import ProjectCard from './ProjectCard';
-import ProjectModal from './ProjectModal';
+import ProjectCard from './projectcard';
+import ProjectModal from './projectmodal';
 import './project.css'; // Import your CSS here
 
 const projects = [
