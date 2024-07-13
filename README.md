@@ -35,7 +35,7 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 ### 🛠️ Technical Skills
 - **MS Office**: MS Word, MS PowerPoint, MS Excel
 - **Programming Languages**: Python, C, MATLAB, Dart, JavaScript, Verilog HDL
-- **Operating System**: Robot Operating System (ROS)
+- **Operating System**: Robot Operating System (ROS), Linux
 - **Software and Tools**: Stonefish, Gazebo, Rosbag, CodeBlocks, Emu8086, Cisco Packet Tracer, Visual Studio, Proteus Design Suite, LTSpice, AutoCAD, Adobe Illustrator, Simulink, Microwind, DSCH, QUARTUS’Ⅱ
 - **Web Development**: HTML, CSS, JavaScript, React.js, Bootstrap
 - **Machine Learning**: TensorFlow, Scikit-Learn, PyTorch
