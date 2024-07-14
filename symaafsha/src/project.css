@@ -6,6 +6,9 @@
     border: 1px solid #ccc;
     border-radius: 8px;
     overflow: hidden;
+    align-self: center;
+    align-items: center;
+    align-content: center;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
@@ -45,6 +48,9 @@
       .card {
         position: relative;
         width: 300px;
+        align-self: center;
+        align-items: center;
+        align-content: center;
         border: 1px solid #ccc;
         border-radius: 8px;
         overflow: hidden;
