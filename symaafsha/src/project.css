@@ -8,6 +8,7 @@
       min-height: 100vh;       /* Minimum height of 100% of the viewport height */
       flex-direction: column;  /* Optional: Depends on how you want to stack your cards */
       padding: 20px;           /* Optional: Provides some space around the content */
+      gap: 20px;
   }
   
   
@@ -62,7 +63,8 @@
         align-items: center;     /* Aligns children (cards) vertically in the center */
         min-height: 100vh;       /* Minimum height of 100% of the viewport height */
         flex-direction: column;  /* Optional: Depends on how you want to stack your cards */
-        padding: 20px;           
+        padding: 20px;  
+        gap: 20px;         
         justify-content: space-around;
     }
     
