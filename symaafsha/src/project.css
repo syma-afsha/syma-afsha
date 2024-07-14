@@ -46,6 +46,7 @@
     border-radius: 5px;
     cursor: pointer;
     margin-top: 10px;
+    height: 500px;
 }
 
 .toggle-video:hover {
