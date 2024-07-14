@@ -18,6 +18,9 @@ function ProjectCard({ title, description, mediaUrl, mediaType }) {
                 <h3>{title}</h3>
                 <p>{description}</p>
             </div>
+            <div className="action-buttons">
+                <button className="button" onClick={onOpen}>View Details</button>
+            </div>
         </div>
     );
 }
