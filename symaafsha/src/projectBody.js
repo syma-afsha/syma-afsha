@@ -55,40 +55,27 @@
 
 import React, { useState } from 'react';
 import ProjectCard from './projectcard';
-import ProjectModal from './projectmodal';
+
 import './project.css'; // Import your CSS here
 
-const projects = [
-  {
-    id: 1,
-    title: 'Project 1',
-    description: 'Short description of Project 1',
-    fullDescription: 'Detailed description of Project 1...',
-    image: 'path_to_image.jpg',
-    videoSrc: 'path_to_video.mp4'
-  },
-  // Add more projects as needed
-];
-
 function ProjectBody() {
-  const [selectedProject, setSelectedProject] = useState(null);
-
-  const openModal = (project) => {
-    setSelectedProject(project);
-  };
-
-  const closeModal = () => {
-    setSelectedProject(null);
-  };
-
-  return (
-    <div className="projects-container">
-      {projects.map(project => (
-        <ProjectCard key={project.id} project={project} onOpen={openModal} />
-      ))}
-      <ProjectModal project={selectedProject} onClose={closeModal} />
-    </div>
-  );
+    return (
+        <div className="App">
+            <ProjectCard 
+                title="Project Title"
+                description="This is a brief description of the project."
+                mediaUrl="path/to/your/image.jpg"
+                mediaType="image" // or "video"
+            />
+            <ProjectCard 
+                title="Another Project"
+                description="Description of another project."
+                mediaUrl="path/to/your/video.mp4"
+                mediaType="video" // or "image"
+            />
+        </div>
+    );
 }
+
 
 export default ProjectBody;

@@ -1,186 +1,77 @@
 @media (min-width: 767px) {
 
 
-    .Projectbody{
-        box-sizing: border-box;
-        background-color: black;
-      min-height: 500vh;
-        font-family: serif;
-       
-        width: 100%;
-       
-    }
-    .project-text{
-        font-size: 30px;
-        color: whitesmoke;
-        text-decoration: underline;
-        padding-top:2%;
-      
-        text-align: center;
-    }
-    .projects-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 20px;
-    }
-    
-    .project-card {
-      width: 300px;
-      margin: 10px;
-      cursor: pointer;
-      transition: transform 0.3s;
-    }
-    
-    .project-card:hover {
-      transform: scale(1.05);
-    }
-    
-    .project-image {
-      width: 100%;
-      height: 200px;
-      object-fit: cover;
-    }
-    
-    .project-info {
-      padding: 10px;
-      text-align: center;
-    }
-    
-    .modal {
-      display: none; /* Change this in JavaScript */
-      position: fixed;
-      z-index: 1;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      overflow: auto;
-      background-color: rgba(0,0,0,0.4);
-    }
-    
-    .modal-content {
-      background-color: #fefefe;
-      margin: 15% auto;
-      padding: 20px;
-      border: 1px solid #888;
-      width: 80%;
-    }
-    
-    .close {
-      color: #aaa;
-      float: right;
-      font-size: 28px;
-      font-weight: bold;
-    }
-    
-    .close:hover,
-    .close:focus {
-      color: black;
-      cursor: pointer;
-    }
-    
+  .card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px;
+}
+
+.media-container {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.media-container img,
+.media-container video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.content {
+    padding: 15px;
+    background-color: #f9f9f9;
+}
+
+.content h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.content p {
+    color: #666;
+}
+
     
     }
     @media (max-width: 800px) {
       
-        .projectbody{
-            box-sizing: border-box;
-            background-color: black;
-          
-            font-family: serif;
-            height: 680vh;
-            width: 100%;
-            
-        }
-        
-    
-    .project-text{
-        font-size: 25px;
-        color: whitesmoke;
-        text-decoration: underline;
-        padding-top:2%;
-       
-        text-align: center;
+      .card {
+        width: 300px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        overflow: hidden;
+        margin: 20px;
     }
     
-    .projects-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-around;
-      padding: 20px;
+    .media-container {
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
     }
     
-    .project-card {
-      width: 300px;
-      margin: 10px;
-      cursor: pointer;
-      transition: transform 0.3s;
+    .media-container img,
+    .media-container video {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
     
-    .project-card:hover {
-      transform: scale(1.05);
+    .content {
+        padding: 15px;
+        background-color: #f9f9f9;
     }
     
-    .project-image {
-      width: 100%;
-      height: 200px;
-      object-fit: cover;
+    .content h3 {
+        margin-top: 0;
+        color: #333;
     }
     
-    .project-info {
-      padding: 10px;
-      text-align: center;
+    .content p {
+        color: #666;
     }
-    
-    .modal {
-      display: none; /* Change this in JavaScript */
-      position: fixed;
-      z-index: 1;
-      left: 0;
-      top: 0;
-      width: 100%;
-      height: 100%;
-      overflow: auto;
-      background-color: rgba(0,0,0,0.4);
-    }
-    
-    .modal-content {
-      background-color: #fefefe;
-      margin: 15% auto;
-      padding: 20px;
-      border: 1px solid #888;
-      width: 80%;
-    }
-    
-    .close {
-      color: #aaa;
-      float: right;
-      font-size: 28px;
-      font-weight: bold;
-    }
-    
-    .close:hover,
-    .close:focus {
-      color: black;
-      cursor: pointer;
-    }
-    
-    }
-    @keyframes slideInLeft {
-        0% {
-          transform: translateX(-100%);
-        }
-        100% {
-          transform: translateX(0);
-        }
-      }
-      
-      @keyframes slideInRight {
-        0% {
-          transform: translateX(100%);
-        }
-        100% {
-          transform: translateX(0);
-        }
-      }
+  }    

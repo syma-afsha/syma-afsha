@@ -1,4 +1,5 @@
 import React from 'react';
+import MultimediaGallery from './MultimediaGallery';
 
 function ProjectModal({ project, onClose }) {
   if (!project) return null;
@@ -9,10 +10,7 @@ function ProjectModal({ project, onClose }) {
         <span className="close" onClick={onClose}>&times;</span>
         <h2>{project.title}</h2>
         <p>{project.fullDescription}</p>
-        <video controls>
-          <source src={project.videoSrc} type="video/mp4" />
-          Your browser does not support HTML5 video.
-        </video>
+        <MultimediaGallery media={project.media} />
       </div>
     </div>
   );

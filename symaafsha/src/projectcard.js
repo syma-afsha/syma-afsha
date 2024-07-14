@@ -1,15 +1,25 @@
 import React from 'react';
 
-function ProjectCard({ project, onOpen }) {
-  return (
-    <div className="project-card" onClick={() => onOpen(project)}>
-      <img src={project.image} alt={project.title} className="project-image" />
-      <div className="project-info">
-        <h3>{project.title}</h3>
-        <p>{project.description}</p>
-      </div>
-    </div>
-  );
+import './project.css'; // Import your CSS here
+function ProjectCard({ title, description, mediaUrl, mediaType }) {
+    return (
+        <div className="card">
+            <div className="media-container">
+                {mediaType === 'video' ? (
+                    <video controls>
+                        <source src={mediaUrl} type="video/mp4" />
+                        Your browser does not support the video tag.
+                    </video>
+                ) : (
+                    <img src={mediaUrl} alt={title} />
+                )}
+            </div>
+            <div className="content">
+                <h3>{title}</h3>
+                <p>{description}</p>
+            </div>
+        </div>
+    );
 }
 
 export default ProjectCard;
