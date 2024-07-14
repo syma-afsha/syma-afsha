@@ -14,7 +14,7 @@
   
   .card {
     width: 100%;
-    max-width: 500px; /* Set a max-width for better control */
+    max-width: 600px; /* Set a max-width for better control */
     margin: 20px;
     border: 1px solid #ccc;
     border-radius: 8px;
