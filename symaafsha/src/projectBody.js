@@ -73,7 +73,6 @@ function ProjectBody() {
                 <ProjectCard
                     key={project.id}
                     title={project.title}
-                    description={project.description}
                     imageUrl={project.imageUrl}
                     videoUrl={project.videoUrl}
                 />
