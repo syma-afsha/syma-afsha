@@ -53,7 +53,7 @@
 
 .card-video {
     width: 100%;
-    display: none; /* Starts off hidden */
+   
 }
 
 .card video {
@@ -116,7 +116,7 @@
   
   .card-video {
       width: 100%;
-      display: none; /* Starts off hidden */
+      
   }
   
   .card video {
