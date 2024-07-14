@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/syma-afsha/static/css/main.240951ea.css",
-    "main.js": "/syma-afsha/static/js/main.4af4a9d2.js",
+    "main.css": "/syma-afsha/static/css/main.8c7f4d7d.css",
+    "main.js": "/syma-afsha/static/js/main.368f93cb.js",
     "static/media/re1.png": "/syma-afsha/static/media/re1.20addd7c0c887ab4a6db.png",
     "static/media/cv.png": "/syma-afsha/static/media/cv.5df56981f540c2034939.png",
     "static/media/violent.png": "/syma-afsha/static/media/violent.f1d2af54f0f4cda7bf30.png",
@@ -20,11 +20,11 @@
     "static/media/re.png": "/syma-afsha/static/media/re.24328668d17129fc9080.png",
     "static/media/googlescholar.png": "/syma-afsha/static/media/googlescholar.8ceb28e2cbac988bb13f.png",
     "index.html": "/syma-afsha/index.html",
-    "main.240951ea.css.map": "/syma-afsha/static/css/main.240951ea.css.map",
-    "main.4af4a9d2.js.map": "/syma-afsha/static/js/main.4af4a9d2.js.map"
+    "main.8c7f4d7d.css.map": "/syma-afsha/static/css/main.8c7f4d7d.css.map",
+    "main.368f93cb.js.map": "/syma-afsha/static/js/main.368f93cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.240951ea.css",
-    "static/js/main.4af4a9d2.js"
+    "static/css/main.8c7f4d7d.css",
+    "static/js/main.368f93cb.js"
   ]
 }
