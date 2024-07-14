@@ -37,7 +37,7 @@
 
 .video-button {
     padding: 8px 16px;
-    background-color: #007bff;
+    background-color: rgba(0, 128, 0, 0.267);
     color: white;
     border: none;
     border-radius: 4px;
@@ -93,7 +93,7 @@
     
     .video-button {
         padding: 8px 16px;
-        background-color: #007bff;
+        background-color:  rgba(0, 128, 0, 0.267);
         color: white;
         border: none;
         border-radius: 4px;
