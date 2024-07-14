@@ -24,7 +24,7 @@ function ProjectCard({ title, description, imageUrl, videoUrl }) {
                 <h2>{title}</h2>
                 <p>{description}</p>  
                 <button onClick={toggleVideo} className="toggle-video">
-                    {videoVisible ? 'Hide Video' : 'Watch Video'}
+                    {videoVisible ? 'Close Video' : 'Watch Video'}
                 </button>
             </div>
             {videoVisible && embedUrl && ( // Ensure the URL is valid and video visibility is toggled

@@ -57,7 +57,7 @@ import React, { useState } from 'react';
 import ProjectCard from './projectcard';
 import p1 from "./image/P2.png";
 import slam from "./image/slam.png";
-import Aruco_Stonefish from "/image/Aruco_Stonefish.png"
+import Aruco_Stonefish from "./image/Aruco_Stonefish.png"
 import './project.css'; // Import your CSS here
 
 function ProjectBody() {
