@@ -73,6 +73,16 @@ function ProjectBody() {
 
     return (
         <div className="ProjectBody">
+              <h2 style={{color: "#00FFFF", textAlign: "center", fontSize: 20 , textShadow: "2px 2px 4px #000000" ,fontFamily: "Lobster, cursive" }}>
+     <u>
+         <b>
+             Discover More of My Projects - Unlock My Project Gallery: 
+             <a href="https://github.com/syma-afsha" target="_blank" style={{ color: "#FF6347", textDecoration: "none", marginLeft: 10 }}>
+                 <FaGithub className="github-icon" style={{fontSize: "38px", transition: "transform 0.3s, box-shadow 0.3s" }} />
+             </a>
+         </b>
+     </u>
+ </h2>
             {projects.map(project => (
                 <ProjectCard
                     key={project.id}
