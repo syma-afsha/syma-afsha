@@ -56,13 +56,15 @@
 import React, { useState } from 'react';
 import ProjectCard from './projectcard';
 import p1 from "./image/P2.png";
+import slam from "./image/slam.png";
 import './project.css'; // Import your CSS here
 
 function ProjectBody() {
     const projects = [
         { id: 1, title: 'DiscoverBot: Advancing Autonomous Exploration through Frontier and Informed-RRT* Fusion in TurtleBot. ',description: 'This project proposes a novel clustering and path-planning-based exploration method. It utilizes the Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm to identify and cluster frontiers. Effective exploration targets are selected based on minimum distance, entropy, and information gain. For path planning, the Informed-RRT* algorithm and Dubins path planning are employed, incorporating a heuristic to guide tree growth for shorter, more efficient paths. A pure pursuit controller ensures accurate and smooth path execution by the Mobile robot.The results demonstrate significant improvements in exploration efficiency and path quality compared to traditional methods. Comparative analysis highlights the superior performance of Informed-RRT* over RRT* in terms of path optimality and computational efficiency. ',imageUrl: p1, videoUrl: "https://www.youtube.com/watch?v=gOgusKA3tMA&t=1s" },
-        
-        { id: 2, title: 'Project 2', description: 'DiscoverBot integrates advanced path planning algorithms with TurtleBot to autonomously navigate and map unknown environments.', imageUrl: 'path/to/image2.jpg', videoUrl: 'path/to/video2.mp4' },
+
+        { id: 2, title: 'AR-TurtleSLAM: EKF-based Localization and Mapping using ArUco Feature Detection on Mobile Robots', description: 'This project introduces AR-TurtleSLAM, an innovative approach to SLAM that uses Extended Kalman Filter (EKF) techniques combined with ArUco marker detection, implemented on a stonefish simulation platform, and then tested on Turtlebot 3. By integrating sensor data from the TurtleBot wheel encoder by calculating odometry for the prediction step and camera-based ArUco marker detection for the update step, AR-TurtleSLAM effectively manages the inherent uncertainties in sensor measurements and environmental interactions', imageUrl: slam, videoUrl: 'https://www.youtube.com/watch?v=fQKqFyc9HQo' },
+
         { id: 3, title: 'Project 3', description: 'DiscoverBot integrates advanced path planning algorithms with TurtleBot to autonomously navigate and map unknown environments.',imageUrl: 'path/to/image3.jpg', videoUrl: 'path/to/video3.mp4' },
         // Add more projects as needed
         { id: 15, title: 'Project 15', description: 'DiscoverBot integrates advanced path planning algorithms with TurtleBot to autonomously navigate and map unknown environments.',imageUrl: 'path/to/image15.jpg', videoUrl: 'path/to/video15.mp4' }

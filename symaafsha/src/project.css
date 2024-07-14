@@ -63,7 +63,8 @@
 .card-description p {
   font-size: 16px; 
   color: #666; 
-  margin: 10px 0; }
+  margin: 10px 0;
+text-align: justify; }
 
 
     
