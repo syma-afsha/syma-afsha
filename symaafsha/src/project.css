@@ -39,7 +39,7 @@
 
 .toggle-video {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: green;
     color: white;
     border: none;
     border-radius: 5px;
@@ -102,7 +102,7 @@
   
   .toggle-video {
       padding: 10px 20px;
-      background-color: #007bff;
+      background-color: green;
       color: white;
       border: none;
       border-radius: 5px;
