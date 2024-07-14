@@ -2,7 +2,9 @@
 
 
   .card {
-    width: 320px;
+    display: flex;
+    width: 100%;
+    max-width: 800px;  /* Adjust the width as needed */
     border-radius: 12px;
     overflow: hidden;
     margin: 20px;
@@ -16,21 +18,23 @@
 }
 
 .media-container {
-    width: 100%;
-    height: 200px;
+    flex: 1 1 40%; /* Adjust size ratio between media and content */
     overflow: hidden;
 }
 
 .media-container img,
 .media-container video {
     width: 100%;
-    height: 100%;
+    height: auto;
     object-fit: cover;
 }
 
 .content {
-    padding: 15px;
-    background-color: #ffffff;
+    flex: 1 1 60%; /* Adjust size ratio between media and content */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .content h3 {
@@ -41,12 +45,6 @@
 .content p {
     color: #666;
     font-size: 14px;
-}
-
-.action-buttons {
-    display: flex;
-    justify-content: flex-end;
-    padding: 10px 15px;
 }
 
 .button {
@@ -64,12 +62,15 @@
 }
 
 
+
     
     }
     @media (max-width: 800px) {
       
       .card {
-        width: 320px;
+        display: flex;
+        width: 100%;
+        max-width: 800px;  /* Adjust the width as needed */
         border-radius: 12px;
         overflow: hidden;
         margin: 20px;
@@ -83,21 +84,23 @@
     }
     
     .media-container {
-        width: 100%;
-        height: 200px;
+        flex: 1 1 40%; /* Adjust size ratio between media and content */
         overflow: hidden;
     }
     
     .media-container img,
     .media-container video {
         width: 100%;
-        height: 100%;
+        height: auto;
         object-fit: cover;
     }
     
     .content {
-        padding: 15px;
-        background-color: #ffffff;
+        flex: 1 1 60%; /* Adjust size ratio between media and content */
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
     }
     
     .content h3 {
@@ -108,12 +111,6 @@
     .content p {
         color: #666;
         font-size: 14px;
-    }
-    
-    .action-buttons {
-        display: flex;
-        justify-content: flex-end;
-        padding: 10px 15px;
     }
     
     .button {
@@ -129,5 +126,6 @@
     .button:hover {
         background-color: #0056b3;
     }
+    
     
   }    
