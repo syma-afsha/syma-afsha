@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './project.css'; // Import your CSS here
-function ProjectCard({ title, description, mediaUrl, mediaType }) {
+function ProjectCard({ title, description, mediaUrl, mediaType, onOpen }) {
     return (
         <div className="card">
             <div className="media-container">
