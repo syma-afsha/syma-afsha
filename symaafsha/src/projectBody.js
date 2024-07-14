@@ -55,6 +55,7 @@
 
 import React, { useState } from 'react';
 import ProjectCard from './projectcard';
+import { FaGithub } from 'react-icons/fa';
 import p1 from "./image/P2.png";
 import slam from "./image/slam.png";
 import Aruco_Stonefish from "./image/Aruco_Stonefish.png"
