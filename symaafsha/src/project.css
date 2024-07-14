@@ -27,7 +27,7 @@
 
 .card-image {
     width: 100%;
-    height: 500px; /* Adjust based on your preference */
+    height: 300px; /* Adjust based on your preference */
     object-fit: cover;
 }
 
@@ -44,6 +44,9 @@
     border-radius: 4px;
     cursor: pointer;
     transition: background-color 0.3s;
+    align-items: center;
+    align-self: center;
+    align-content: center;
 }
 
 .video-button:hover {
@@ -101,6 +104,9 @@
         border-radius: 4px;
         cursor: pointer;
         transition: background-color 0.3s;
+        align-items: center;
+    align-self: center;
+    align-content: center;
     }
     
     .video-button:hover {
