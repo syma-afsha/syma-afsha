@@ -60,7 +60,7 @@ import './project.css'; // Import your CSS here
 
 function ProjectBody() {
     return (
-        <div className="App">
+        <div className="ProjectBody">
             <ProjectCard 
                 title="Amazing Landscape"
                 imageUrl="path/to/your/image.jpg"
