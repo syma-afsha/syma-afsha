@@ -55,12 +55,12 @@
 
 import React, { useState } from 'react';
 import ProjectCard from './projectcard';
-
+import p1 from "./image/P2.png";
 import './project.css'; // Import your CSS here
 
 function ProjectBody() {
     const projects = [
-        { id: 1, title: 'DiscoverBot: Advancing Autonomous Exploration through Frontier and Informed-RRT* Fusion in TurtleBot. ',imageUrl: './image/P2.png', videoUrl: "https://www.youtube.com/watch?v=gOgusKA3tMA&t=1s" },
+        { id: 1, title: 'DiscoverBot: Advancing Autonomous Exploration through Frontier and Informed-RRT* Fusion in TurtleBot. ',imageUrl: {p1}, videoUrl: "https://www.youtube.com/watch?v=gOgusKA3tMA&t=1s" },
         { id: 2, title: 'Project 2', imageUrl: 'path/to/image2.jpg', videoUrl: 'path/to/video2.mp4' },
         { id: 3, title: 'Project 3', imageUrl: 'path/to/image3.jpg', videoUrl: 'path/to/video3.mp4' },
         // Add more projects as needed
