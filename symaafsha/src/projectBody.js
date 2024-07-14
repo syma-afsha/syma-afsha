@@ -60,7 +60,7 @@ import './project.css'; // Import your CSS here
 
 function ProjectBody() {
     const projects = [
-        { id: 1, title: 'Project 1', imageUrl: 'path/to/image1.jpg', videoUrl: 'path/to/video1.mp4' },
+        { id: 1, title: 'DiscoverBot: Advancing Autonomous Exploration through Frontier and Informed-RRT* Fusion in TurtleBot. ', imageUrl: '/home/syma/symaafsha/symaafsha/symaafsha/src/image/P2.png', videoUrl: 'https://youtu.be/gOgusKA3tMA' },
         { id: 2, title: 'Project 2', imageUrl: 'path/to/image2.jpg', videoUrl: 'path/to/video2.mp4' },
         { id: 3, title: 'Project 3', imageUrl: 'path/to/image3.jpg', videoUrl: 'path/to/video3.mp4' },
         // Add more projects as needed
