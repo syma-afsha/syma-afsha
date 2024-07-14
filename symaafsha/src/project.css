@@ -2,6 +2,7 @@
  
     .ProjectBody {
       display: flex;
+      justify-content: space-around;
       justify-content: center; /* Aligns children (cards) horizontally in the center */
       align-items: center;     /* Aligns children (cards) vertically in the center */
       min-height: 100vh;       /* Minimum height of 100% of the viewport height */
@@ -61,7 +62,8 @@
         align-items: center;     /* Aligns children (cards) vertically in the center */
         min-height: 100vh;       /* Minimum height of 100% of the viewport height */
         flex-direction: column;  /* Optional: Depends on how you want to stack your cards */
-        padding: 20px;           /* Optional: Provides some space around the content */
+        padding: 20px;           
+        justify-content: space-around;
     }
     
       .card {
