@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 import './project.css'; // Import your CSS here
 function ProjectCard({ title, description, videoUrl, imageUrl }) {
