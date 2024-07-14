@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/syma-afsha/static/css/main.4836686a.css",
-    "main.js": "/syma-afsha/static/js/main.1b028786.js",
+    "main.css": "/syma-afsha/static/css/main.46b9cb1f.css",
+    "main.js": "/syma-afsha/static/js/main.c03ad9de.js",
     "static/media/re1.png": "/syma-afsha/static/media/re1.20addd7c0c887ab4a6db.png",
     "static/media/cv.png": "/syma-afsha/static/media/cv.5df56981f540c2034939.png",
     "static/media/violent.png": "/syma-afsha/static/media/violent.f1d2af54f0f4cda7bf30.png",
@@ -10,6 +10,7 @@
     "static/media/badge.png": "/syma-afsha/static/media/badge.fe89623987083b159a8e.png",
     "static/media/github.png": "/syma-afsha/static/media/github.251d222ad80f9fc58461.png",
     "static/media/signpaper.jpg": "/syma-afsha/static/media/signpaper.cee20e28285ad08f50f6.jpg",
+    "static/media/slam.png": "/syma-afsha/static/media/slam.f320c8b25bb15b86cd0f.png",
     "static/media/footer-mail.png": "/syma-afsha/static/media/footer-mail.28a60d1295c7895a8dfd.png",
     "static/media/badge(1).png": "/syma-afsha/static/media/badge(1).0d9caf41dd4164898b00.png",
     "static/media/flowchart-new.png": "/syma-afsha/static/media/flowchart-new.11af6507761f736eb1f7.png",
@@ -21,11 +22,11 @@
     "static/media/re.png": "/syma-afsha/static/media/re.24328668d17129fc9080.png",
     "static/media/googlescholar.png": "/syma-afsha/static/media/googlescholar.8ceb28e2cbac988bb13f.png",
     "index.html": "/syma-afsha/index.html",
-    "main.4836686a.css.map": "/syma-afsha/static/css/main.4836686a.css.map",
-    "main.1b028786.js.map": "/syma-afsha/static/js/main.1b028786.js.map"
+    "main.46b9cb1f.css.map": "/syma-afsha/static/css/main.46b9cb1f.css.map",
+    "main.c03ad9de.js.map": "/syma-afsha/static/js/main.c03ad9de.js.map"
   },
   "entrypoints": [
-    "static/css/main.4836686a.css",
-    "static/js/main.1b028786.js"
+    "static/css/main.46b9cb1f.css",
+    "static/js/main.c03ad9de.js"
   ]
 }
