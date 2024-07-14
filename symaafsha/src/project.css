@@ -1,5 +1,15 @@
 @media (min-width: 767px) {
-
+ 
+    .ProjectBody {
+      display: flex;
+      justify-content: center; /* Aligns children (cards) horizontally in the center */
+      align-items: center;     /* Aligns children (cards) vertically in the center */
+      min-height: 100vh;       /* Minimum height of 100% of the viewport height */
+      flex-direction: column;  /* Optional: Depends on how you want to stack your cards */
+      padding: 20px;           /* Optional: Provides some space around the content */
+  }
+  
+  
   .card {
     position: relative;
     width: 300px;
@@ -45,6 +55,15 @@
     
     }
     @media (max-width: 800px) {
+      .ProjectBody {
+        display: flex;
+        justify-content: center; /* Aligns children (cards) horizontally in the center */
+        align-items: center;     /* Aligns children (cards) vertically in the center */
+        min-height: 100vh;       /* Minimum height of 100% of the viewport height */
+        flex-direction: column;  /* Optional: Depends on how you want to stack your cards */
+        padding: 20px;           /* Optional: Provides some space around the content */
+    }
+    
       .card {
         position: relative;
         width: 300px;
