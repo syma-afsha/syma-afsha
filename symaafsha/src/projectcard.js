@@ -21,7 +21,7 @@ function ProjectCard({ title, description, imageUrl, videoUrl }) {
         <div className="card">
             <img src={imageUrl} alt={title} className="card-image" />
             <div className="card-description">
-                <h3>{title}</h3>
+                <h2>{title}</h3>
                 <p>{description}</p>  {/* Description added here */}
                 <button onClick={toggleVideo} className="toggle-video">
                     {videoVisible ? 'Hide Video' : 'Watch Video'}
