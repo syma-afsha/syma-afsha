@@ -2,134 +2,84 @@
 
   .card {
     position: relative;
-    width: 100%;
-    max-width: 600px;
-    border-radius: 12px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
     overflow: hidden;
-    margin: 20px auto;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    cursor: pointer;
-    transition: all 0.3s ease;
 }
 
-.card:hover {
-    transform: scale(1.02);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-}
-
-.media-container {
-    position: relative;
+.card-image {
     width: 100%;
-    height: auto;
+    height: 200px; /* Adjust based on your preference */
+    object-fit: cover;
 }
 
-.media-video, .media-image {
-    width: 100%;
-    height: auto;
-    display: block;
-}
-
-.content {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.7); /* Dark overlay for better readability */
-    color: #fff;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    opacity: 0;
-    transition: opacity 0.5s ease;
-}
-
-.card:hover .content {
-    opacity: 1;
-}
-
-.content h3, .content p {
-    margin: 0;
-    padding: 10px 0;
+.card-content {
+    padding: 10px;
     text-align: center;
 }
 
-.content h3 {
-    font-size: 24px;
+.video-button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }
 
-.content p {
-    font-size: 16px;
+.video-button:hover {
+    background-color: #0056b3;
 }
 
+.card-video {
+    width: 100%;
+    display: block;
+}
 
     
     }
     @media (max-width: 800px) {
       .card {
         position: relative;
-        width: 100%;
-        max-width: 600px;
-        border-radius: 12px;
+        width: 300px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
         overflow: hidden;
-        margin: 20px auto;
         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        cursor: pointer;
-        transition: all 0.3s ease;
     }
     
-    .card:hover {
-        transform: scale(1.02);
-        box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-    }
-    
-    .media-container {
-        position: relative;
+    .card-image {
         width: 100%;
-        height: auto;
+        height: 200px; /* Adjust based on your preference */
+        object-fit: cover;
     }
     
-    .media-video, .media-image {
-        width: 100%;
-        height: auto;
-        display: block;
-    }
-    
-    .content {
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background: rgba(0, 0, 0, 0.7); /* Dark overlay for better readability */
-        color: #fff;
-        padding: 20px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        opacity: 0;
-        transition: opacity 0.5s ease;
-    }
-    
-    .card:hover .content {
-        opacity: 1;
-    }
-    
-    .content h3, .content p {
-        margin: 0;
-        padding: 10px 0;
+    .card-content {
+        padding: 10px;
         text-align: center;
     }
     
-    .content h3 {
-        font-size: 24px;
+    .video-button {
+        padding: 8px 16px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
     }
     
-    .content p {
-        font-size: 16px;
+    .video-button:hover {
+        background-color: #0056b3;
     }
+    
+    .card-video {
+        width: 100%;
+        display: block;
+    }
+    
     
   }    

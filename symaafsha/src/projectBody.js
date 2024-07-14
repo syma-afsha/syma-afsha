@@ -62,10 +62,9 @@ function ProjectBody() {
     return (
         <div className="App">
             <ProjectCard 
-                title="Project Example"
-                description="This project demonstrates both video and image media within a single card."
-                videoUrl="path/to/your/video.mp4"
+                title="Amazing Landscape"
                 imageUrl="path/to/your/image.jpg"
+                videoUrl="path/to/your/video.mp4"
             />
         </div>
     );
