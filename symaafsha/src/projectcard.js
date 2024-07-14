@@ -21,7 +21,7 @@ function ProjectCard({ title, imageUrl, videoUrl }) {
             {videoVisible && (
                 <video controls className="card-video">
                     <source src={videoUrl} type="video/mp4" />
-                    Your browser does not support the video tag.
+                  
                 </video>
             )}
         </div>
