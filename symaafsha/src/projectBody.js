@@ -59,13 +59,24 @@ import ProjectCard from './projectcard';
 import './project.css'; // Import your CSS here
 
 function ProjectBody() {
+    const projects = [
+        { id: 1, title: 'Project 1', imageUrl: 'path/to/image1.jpg', videoUrl: 'path/to/video1.mp4' },
+        { id: 2, title: 'Project 2', imageUrl: 'path/to/image2.jpg', videoUrl: 'path/to/video2.mp4' },
+        { id: 3, title: 'Project 3', imageUrl: 'path/to/image3.jpg', videoUrl: 'path/to/video3.mp4' },
+        // Add more projects as needed
+        { id: 15, title: 'Project 15', imageUrl: 'path/to/image15.jpg', videoUrl: 'path/to/video15.mp4' }
+    ];
+
     return (
         <div className="ProjectBody">
-            <ProjectCard 
-                title="Amazing Landscape"
-                imageUrl="path/to/your/image.jpg"
-                videoUrl="path/to/your/video.mp4"
-            />
+            {projects.map(project => (
+                <ProjectCard
+                    key={project.id}
+                    title={project.title}
+                    imageUrl={project.imageUrl}
+                    videoUrl={project.videoUrl}
+                />
+            ))}
         </div>
     );
 }
