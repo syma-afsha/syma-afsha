@@ -125,12 +125,11 @@
   
   .card-video {
       width: 100%;
+      display: block;
+      height: 500px; /* Maintain aspect ratio */
       
   }
-  
-  .card video {
-      width: 100%; /* Ensures video fits the card when shown */
-  }
+
    
     
   }    
