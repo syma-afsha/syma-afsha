@@ -59,25 +59,13 @@ import ProjectCard from './projectcard';
 import './project.css'; // Import your CSS here
 
 function ProjectBody() {
-    const handleViewDetails = () => {
-        alert('Details opened!');
-    };
-
     return (
         <div className="App">
             <ProjectCard 
-                title="Project Title"
-                description="This is a brief description of the project."
-                mediaUrl="path/to/your/image.jpg"
-                mediaType="image"
-                onOpen={handleViewDetails}
-            />
-            <ProjectCard 
-                title="Another Project"
-                description="Description of another project."
-                mediaUrl="path/to/your/video.mp4"
-                mediaType="video"
-                onOpen={handleViewDetails}
+                title="Project Example"
+                description="This project demonstrates both video and image media within a single card."
+                videoUrl="path/to/your/video.mp4"
+                imageUrl="path/to/your/image.jpg"
             />
         </div>
     );

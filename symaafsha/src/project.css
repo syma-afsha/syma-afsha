@@ -3,62 +3,45 @@
 
   .card {
     display: flex;
+    flex-direction: column;
     width: 100%;
-    max-width: 800px;  /* Adjust the width as needed */
+    max-width: 600px;
     border-radius: 12px;
     overflow: hidden;
-    margin: 20px;
+    margin: 20px auto;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    transition: box-shadow 0.3s ease-in-out;
 }
 
 .card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
 }
 
 .media-container {
-    flex: 1 1 40%; /* Adjust size ratio between media and content */
-    overflow: hidden;
-}
-
-.media-container img,
-.media-container video {
+    position: relative;
     width: 100%;
     height: auto;
-    object-fit: cover;
+}
+
+.media-video, .media-image {
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 .content {
-    flex: 1 1 60%; /* Adjust size ratio between media and content */
     padding: 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    background-color: #fff;
 }
 
 .content h3 {
-    margin-top: 0;
+    margin: 0;
     color: #333;
 }
 
 .content p {
     color: #666;
     font-size: 14px;
-}
-
-.button {
-    padding: 8px 12px;
-    background-color: #007BFF;
-    color: white;
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-.button:hover {
-    background-color: #0056b3;
 }
 
 
@@ -69,62 +52,45 @@
       
       .card {
         display: flex;
+        flex-direction: column;
         width: 100%;
-        max-width: 800px;  /* Adjust the width as needed */
+        max-width: 600px;
         border-radius: 12px;
         overflow: hidden;
-        margin: 20px;
+        margin: 20px auto;
         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        transition: box-shadow 0.3s ease-in-out;
     }
     
     .card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+        box-shadow: 0 8px 16px rgba(0,0,0,0.2);
     }
     
     .media-container {
-        flex: 1 1 40%; /* Adjust size ratio between media and content */
-        overflow: hidden;
-    }
-    
-    .media-container img,
-    .media-container video {
+        position: relative;
         width: 100%;
         height: auto;
-        object-fit: cover;
+    }
+    
+    .media-video, .media-image {
+        width: 100%;
+        height: auto;
+        display: block;
     }
     
     .content {
-        flex: 1 1 60%; /* Adjust size ratio between media and content */
         padding: 20px;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
+        background-color: #fff;
     }
     
     .content h3 {
-        margin-top: 0;
+        margin: 0;
         color: #333;
     }
     
     .content p {
         color: #666;
         font-size: 14px;
-    }
-    
-    .button {
-        padding: 8px 12px;
-        background-color: #007BFF;
-        color: white;
-        border: none;
-        border-radius: 6px;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-    }
-    
-    .button:hover {
-        background-color: #0056b3;
     }
     
     
