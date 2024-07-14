@@ -1,20 +1,20 @@
 @media (min-width: 767px) {
 
-
   .card {
-    display: flex;
-    flex-direction: column;
+    position: relative;
     width: 100%;
     max-width: 600px;
     border-radius: 12px;
     overflow: hidden;
     margin: 20px auto;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    transition: box-shadow 0.3s ease-in-out;
+    cursor: pointer;
+    transition: all 0.3s ease;
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    transform: scale(1.02);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
 }
 
 .media-container {
@@ -30,40 +30,59 @@
 }
 
 .content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7); /* Dark overlay for better readability */
+    color: #fff;
     padding: 20px;
-    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.card:hover .content {
+    opacity: 1;
+}
+
+.content h3, .content p {
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
 }
 
 .content h3 {
-    margin: 0;
-    color: #333;
+    font-size: 24px;
 }
 
 .content p {
-    color: #666;
-    font-size: 14px;
+    font-size: 16px;
 }
-
 
 
     
     }
     @media (max-width: 800px) {
-      
       .card {
-        display: flex;
-        flex-direction: column;
+        position: relative;
         width: 100%;
         max-width: 600px;
         border-radius: 12px;
         overflow: hidden;
         margin: 20px auto;
         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        transition: box-shadow 0.3s ease-in-out;
+        cursor: pointer;
+        transition: all 0.3s ease;
     }
     
     .card:hover {
-        box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+        transform: scale(1.02);
+        box-shadow: 0 10px 20px rgba(0,0,0,0.2);
     }
     
     .media-container {
@@ -79,19 +98,38 @@
     }
     
     .content {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.7); /* Dark overlay for better readability */
+        color: #fff;
         padding: 20px;
-        background-color: #fff;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        opacity: 0;
+        transition: opacity 0.5s ease;
+    }
+    
+    .card:hover .content {
+        opacity: 1;
+    }
+    
+    .content h3, .content p {
+        margin: 0;
+        padding: 10px 0;
+        text-align: center;
     }
     
     .content h3 {
-        margin: 0;
-        color: #333;
+        font-size: 24px;
     }
     
     .content p {
-        color: #666;
-        font-size: 14px;
+        font-size: 16px;
     }
-    
     
   }    
