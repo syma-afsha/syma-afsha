@@ -59,6 +59,10 @@
    
 }
 
+.card-description p {
+  font-size: 14px; 
+  color: #666; 
+  margin: 10px 0; }
 
 
     
@@ -74,6 +78,11 @@
         gap: 20px;         
         justify-content: space-around;
     }
+    .card-description p {
+      font-size: 14px; 
+      color: #666; 
+      margin: 10px 0; }
+    
     
     .card {
       width: 100%;

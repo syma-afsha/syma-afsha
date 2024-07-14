@@ -60,11 +60,11 @@ import './project.css'; // Import your CSS here
 
 function ProjectBody() {
     const projects = [
-        { id: 1, title: 'DiscoverBot: Advancing Autonomous Exploration through Frontier and Informed-RRT* Fusion in TurtleBot. ',imageUrl: p1, videoUrl: "https://www.youtube.com/watch?v=gOgusKA3tMA&t=1s" },
-        { id: 2, title: 'Project 2', imageUrl: 'path/to/image2.jpg', videoUrl: 'path/to/video2.mp4' },
-        { id: 3, title: 'Project 3', imageUrl: 'path/to/image3.jpg', videoUrl: 'path/to/video3.mp4' },
+        { id: 1, title: 'DiscoverBot: Advancing Autonomous Exploration through Frontier and Informed-RRT* Fusion in TurtleBot. ',description: 'DiscoverBot integrates advanced path planning algorithms with TurtleBot to autonomously navigate and map unknown environments.',imageUrl: p1, videoUrl: "https://www.youtube.com/watch?v=gOgusKA3tMA&t=1s" },
+        { id: 2, title: 'Project 2', description: 'DiscoverBot integrates advanced path planning algorithms with TurtleBot to autonomously navigate and map unknown environments.', imageUrl: 'path/to/image2.jpg', videoUrl: 'path/to/video2.mp4' },
+        { id: 3, title: 'Project 3', description: 'DiscoverBot integrates advanced path planning algorithms with TurtleBot to autonomously navigate and map unknown environments.',imageUrl: 'path/to/image3.jpg', videoUrl: 'path/to/video3.mp4' },
         // Add more projects as needed
-        { id: 15, title: 'Project 15', imageUrl: 'path/to/image15.jpg', videoUrl: 'path/to/video15.mp4' }
+        { id: 15, title: 'Project 15', description: 'DiscoverBot integrates advanced path planning algorithms with TurtleBot to autonomously navigate and map unknown environments.',imageUrl: 'path/to/image15.jpg', videoUrl: 'path/to/video15.mp4' }
     ];
 
     return (
@@ -73,6 +73,7 @@ function ProjectBody() {
                 <ProjectCard
                     key={project.id}
                     title={project.title}
+                    description={project.description}
                     imageUrl={project.imageUrl}
                     videoUrl={project.videoUrl}
                 />

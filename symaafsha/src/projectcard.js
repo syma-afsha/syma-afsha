@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 import './project.css'; // Import your CSS here
-function ProjectCard({ title, imageUrl, videoUrl }) {
+function ProjectCard({ title, description, imageUrl, videoUrl }) {
     const [videoVisible, setVideoVisible] = useState(false);
 
     const toggleVideo = () => {
@@ -22,6 +22,7 @@ function ProjectCard({ title, imageUrl, videoUrl }) {
             <img src={imageUrl} alt={title} className="card-image" />
             <div className="card-description">
                 <h3>{title}</h3>
+                <p>{description}</p>  {/* Description added here */}
                 <button onClick={toggleVideo} className="toggle-video">
                     {videoVisible ? 'Hide Video' : 'Watch Video'}
                 </button>
