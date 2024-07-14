@@ -34,8 +34,9 @@
     text-align: center;
 }
 
-.card-description h3 {
+.card-description h2 {
     margin-top: 0;
+    font-size: 30px;
 }
 
 .toggle-video {
