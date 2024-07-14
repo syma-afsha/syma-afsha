@@ -26,7 +26,7 @@
 
 .card-image {
     width: 100%;
-    height: auto; /* Maintain aspect ratio */
+    height: 4500px; /* Maintain aspect ratio */
 }
 
 .card-description {
