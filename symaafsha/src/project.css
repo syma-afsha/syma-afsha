@@ -54,7 +54,9 @@
 .toggle-video:hover {
     background-color: #0056b3;
 }
-
+.card button:hover{
+    background-color: #0056b3;
+}
 .card-video {
     width: 100%;
     height: 500px;
@@ -89,12 +91,24 @@ text-align: justify; }
         gap: 20px;         
         justify-content: space-around;
     }
+    .card button:hover{
+        background-color: #0056b3;
+    }
     .card-description p {
       font-size: 14px; 
       color: #666; 
       margin: 10px 0; }
     
-    
+      .card button{
+        background-color: green;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        padding: 10px 20px;
+        margin-top: 10px;
+    }
+      
     .card {
       width: 100%;
       max-width: 320px; /* Set a max-width for better control */
