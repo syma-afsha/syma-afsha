@@ -26,7 +26,7 @@ function Navbar() {
         <li><Link className='navbar-link ' to="/project">Project</Link></li>
         <li><Link className='navbar-link ' to="/research">Research</Link></li>
         <li><Link className='navbar-link ' to="/publication">Publication</Link></li>
-        <li><a className='nav-icon' href="mailto: symaafsha.eece@gmail.com" target="_blank">
+        <li><a className='nav-icon' href="mailto: https://mail.google.com/mail/u/0/?tab=km#inbox" target="_blank">
         <img
               src={mailIcon}
               alt="Mail"
