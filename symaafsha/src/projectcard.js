@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 
-import './project.css'; // Import your CSS herefunction ProjectCard({ id, title, description, imageUrl, videoUrl, codeUrl }) {
+import './project.css'; // Import your CSS here
+function ProjectCard({ id, title, description, imageUrl, videoUrl, codeUrl }) {
     const [contentVisible, setContentVisible] = useState(false);
 
     // Function to toggle content visibility
@@ -46,5 +47,5 @@ import './project.css'; // Import your CSS herefunction ProjectCard({ id, title,
         </div>
     );
 
-    
+}
 export default ProjectCard;
