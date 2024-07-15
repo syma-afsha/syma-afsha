@@ -1,29 +1,31 @@
 import React, { useState } from 'react';
 
-import './project.css'; // Import your CSS here
-function ProjectCard({ title, description, imageUrl, videoUrl, codeUrl }) {
-    const [videoVisible, setVideoVisible] = useState(false);
+import './project.css'; // Import your CSS herefunction ProjectCard({ id, title, description, imageUrl, videoUrl, codeUrl }) {
+    const [contentVisible, setContentVisible] = useState(false);
 
+    // Function to toggle content visibility
     const toggleContent = () => {
-        setVideoVisible(!videoVisible);
+        setContentVisible(!contentVisible);
     };
 
+    // Determine button label and content rendering based on available URLs
+    const buttonLabel = codeUrl && id === 5 ? 'Code Details' : 'Watch Video';
     const renderContent = () => {
-        if (videoUrl) {
+        if (videoUrl && id !== 5) {
             return (
                 <iframe
                     className="card-video"
-                    src={videoUrl}
+                    src={`https://www.youtube.com/embed/${videoUrl}`}
                     frameBorder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
                     title="Embedded youtube"
-                    style={{ height: videoVisible ? '500px' : '0', overflow: 'hidden' }}
+                    style={{ height: contentVisible ? '500px' : '0', overflow: 'hidden' }}
                 ></iframe>
             );
-        } else if (codeUrl) {
+        } else if (codeUrl && id === 5) {
             return (
-                <a href={codeUrl} target="_blank" rel="noopener noreferrer" style={{ display: videoVisible ? 'block' : 'none' }}>
+                <a href={codeUrl} target="_blank" rel="noopener noreferrer" style={{ display: contentVisible ? 'block' : 'none' }}>
                     Visit the code repository
                 </a>
             );
@@ -37,11 +39,12 @@ function ProjectCard({ title, description, imageUrl, videoUrl, codeUrl }) {
                 <h3>{title}</h3>
                 <p>{description}</p>
                 <button onClick={toggleContent} className="toggle-content">
-                    {videoVisible ? 'Hide Details' : 'View Details'}
+                    {contentVisible ? 'Hide Details' : buttonLabel}
                 </button>
                 {renderContent()}
             </div>
         </div>
     );
-}
+
+    
 export default ProjectCard;
