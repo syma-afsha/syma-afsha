@@ -80,7 +80,7 @@ function ProjectBody() {
 
     return (
         <div className="ProjectBody">
-              <h2 style={{color: "#00FFFF", textAlign: "center", fontSize: 20 , textShadow: "2px 2px 4px #000000" ,fontFamily: "Lobster" }}>
+              <h2 style={{color: "#00FFFF", textAlign: "center", fontSize: 22 , textShadow: "2px 2px 4px #000000" ,fontFamily: "Lobster" }}>
      <u>
          <b>
              Discover More of My Projects - Unlock My Project Gallery: 
