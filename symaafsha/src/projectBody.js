@@ -61,6 +61,7 @@ import slam from "./image/slam.png";
 import Aruco_Stonefish from "./image/Aruco_Stonefish.png"
 import './project.css'; // Import your CSS here
 import pick from "./image/pick.png"
+import iot from "./image/iot_website_view.png"
 function ProjectBody() {
     const projects = [
         { id: 1, title: 'DiscoverBot: Advancing Autonomous Exploration through Frontier and Informed-RRT* Fusion in TurtleBot. ',description: 'This project proposes a novel clustering and path-planning-based exploration method. It utilizes the Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm to identify and cluster frontiers. Effective exploration targets are selected based on minimum distance, entropy, and information gain. For path planning, the Informed-RRT* algorithm and Dubins path planning are employed, incorporating a heuristic to guide tree growth for shorter, more efficient paths. A pure pursuit controller ensures accurate and smooth path execution by the Mobile robot. ',imageUrl: p1, videoUrl: "https://www.youtube.com/watch?v=gOgusKA3tMA&t=1s" },
@@ -69,7 +70,9 @@ function ProjectBody() {
 
         { id: 3, title: 'PoseNet: Real-time Camera Pose Estimation in Stonefish (ROS) with ArUco Markers for TurtleBot.', description: 'This project presents a detailed study on the implementation and testing of several key techniques, including bundle adjustment, camera pose estimation using ArUco markers, and the calibration of cameras using a single ArUco marker. These methodologies were evaluated using the Stonefish ROS simulator and Real Environment to ensure their robustness and reliability.',imageUrl: Aruco_Stonefish, videoUrl: 'https://www.youtube.com/watch?v=PSAO1bBxmjE' },
         // Add more projects as needed
-        { id: 4, title: 'RoboPick: Task Prioritized Object Manipulation on TurtleBot with 4 DOF Arm, Utilizing ArUco-based Object Detection.', description: 'This project shows how combining advanced control methods with reliable navigation tools can improve the performance of mobile robots. Through simulations and real-world testing, this research demonstrates how VMS can automate complex tasks with high accuracy and reliability. In the implementation phase, the focus is on building the software within the Robot Operating System (ROS). Here, behavior trees are used to manage the sequences for picking, transporting, and placing objects. These trees ensure the tasks are performed smoothly and effectively. The use of ArUco markers for locating and navigating enhances the robot’s ability to detect and handle objects accurately.',imageUrl: pick, videoUrl: 'https://www.youtube.com/watch?v=5xvpcZMMjLQ' }
+        { id: 4, title: 'RoboPick: Task Prioritized Object Manipulation on TurtleBot with 4 DOF Arm, Utilizing ArUco-based Object Detection.', description: 'This project shows how combining advanced control methods with reliable navigation tools can improve the performance of mobile robots. Through simulations and real-world testing, this research demonstrates how VMS can automate complex tasks with high accuracy and reliability. In the implementation phase, the focus is on building the software within the Robot Operating System (ROS). Here, behavior trees are used to manage the sequences for picking, transporting, and placing objects. These trees ensure the tasks are performed smoothly and effectively. The use of ArUco markers for locating and navigating enhances the robot’s ability to detect and handle objects accurately.',imageUrl: pick, videoUrl: 'https://www.youtube.com/watch?v=5xvpcZMMjLQ' },
+
+        { id: 5, title: 'IoT Website ', description: 'This Website is made for for remote sensing using IoT for a research group at the University of New Hampshire, New Hampshire, United States. The Frontend part is done by using React.js, HTML, and CSS and the Backend part is done by using django.',imageUrl: iot,  videoUrl: '', codeUrl: 'https://github.com/yourusername/yourprojectrepo' }
     ];
 
     return (
@@ -86,12 +89,14 @@ function ProjectBody() {
  </h2>
             {projects.map(project => (
                 <ProjectCard
-                    key={project.id}
-                    title={project.title}
-                    description={project.description}
-                    imageUrl={project.imageUrl}
-                    videoUrl={project.videoUrl}
-                />
+                key={project.id}
+                title={project.title}
+                description={project.description}
+                imageUrl={project.imageUrl}
+                videoUrl={project.videoUrl}
+                codeUrl={project.codeUrl} // Pass this new prop where applicable
+            />
+            
             ))}
         </div>
     );

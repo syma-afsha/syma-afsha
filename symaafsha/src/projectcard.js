@@ -1,44 +1,46 @@
 import React, { useState } from 'react';
 
 import './project.css'; // Import your CSS here
-function ProjectCard({ title, description, imageUrl, videoUrl }) {
+function ProjectCard({ title, description, imageUrl, videoUrl, codeUrl }) {
     const [videoVisible, setVideoVisible] = useState(false);
 
-    const toggleVideo = () => {
+    const toggleContent = () => {
         setVideoVisible(!videoVisible);
     };
 
-    // Function to generate YouTube embed URL from a regular YouTube URL
-    const getYoutubeEmbedUrl = (url) => {
-        const regExp = /^.*(youtu.be\/|v\/|e\/|u\/\w+\/|embed\/|v=)([^#\&\?]*).*/;
-        const match = url.match(regExp);
-        return (match && match[2].length === 11) ? `https://www.youtube.com/embed/${match[2]}` : null;
+    const renderContent = () => {
+        if (videoUrl) {
+            return (
+                <iframe
+                    className="card-video"
+                    src={videoUrl}
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                    title="Embedded youtube"
+                    style={{ height: videoVisible ? '500px' : '0', overflow: 'hidden' }}
+                ></iframe>
+            );
+        } else if (codeUrl) {
+            return (
+                <a href={codeUrl} target="_blank" rel="noopener noreferrer" style={{ display: videoVisible ? 'block' : 'none' }}>
+                    Visit the code repository
+                </a>
+            );
+        }
     };
-
-    const embedUrl = getYoutubeEmbedUrl(videoUrl); // Transform YouTube link to an embed link
 
     return (
         <div className="card">
             <img src={imageUrl} alt={title} className="card-image" />
             <div className="card-description">
-                <h2>{title}</h2>
-                <p>{description}</p>  
-                <button onClick={toggleVideo} className="toggle-video">
-                    {videoVisible ? 'Close Video' : 'Watch Video'}
+                <h3>{title}</h3>
+                <p>{description}</p>
+                <button onClick={toggleContent} className="toggle-content">
+                    {videoVisible ? 'Hide Details' : 'View Details'}
                 </button>
+                {renderContent()}
             </div>
-            {videoVisible && embedUrl && ( // Ensure the URL is valid and video visibility is toggled
-                <iframe
-                    className="card-video"
-                    src={embedUrl}
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
-                    title="Embedded youtube"
-                ></iframe>
-            )}
         </div>
     );
 }
-
-export default ProjectCard;
