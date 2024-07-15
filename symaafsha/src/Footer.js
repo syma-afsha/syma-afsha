@@ -24,7 +24,7 @@ import github from "./image/github.png"
         
             <h1 className='footer-text1'> <span img="Pick Me" /> 👇 Connect  With  Me. 👇</h1>
             <Container className='footer-container'  >
-        <a className='footer-icon' href="mailto: symaafsha.eece@gmail.com" target="_blank">
+        <a className='footer-icon' href="https://mail.google.com/mail/u/0/?tab=km#inbox" target="_blank">
         <img
               src={mailIcon}
               alt="Mail"
