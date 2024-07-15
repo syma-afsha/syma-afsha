@@ -17,7 +17,7 @@ function ProjectCard({ id, title, description, imageUrl, videoUrl, codeUrl }) {
     };
 
     // Determine button label and content rendering based on available URLs
-    const buttonLabel = codeUrl && id === 5 ? 'Code Details' : 'Watch Video';
+    const buttonLabel = codeUrl && id >= 5 ? 'Code Details' : 'Watch Video';
     const renderContent = () => {
         if (videoUrl && id !== 5) {
             const videoID = extractYouTubeID(videoUrl);
@@ -32,7 +32,7 @@ function ProjectCard({ id, title, description, imageUrl, videoUrl, codeUrl }) {
                     style={{ height: contentVisible ? '500px' : '0', overflow: 'hidden' }}
                 ></iframe>
             );
-        } else if (codeUrl && id === 5) {
+        } else if (codeUrl && id >= 5) {
             return (
                 <a href={codeUrl} target="_blank" rel="noopener noreferrer" style={{ display: contentVisible ? 'block' : 'none' }}>
                     Visit the code repository
