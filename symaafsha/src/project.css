@@ -67,7 +67,15 @@
   margin: 10px 0;
 text-align: justify; }
 
-
+.card button{
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
     
     }
     @media (max-width: 800px) {
