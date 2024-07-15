@@ -44,3 +44,4 @@ function ProjectCard({ title, description, imageUrl, videoUrl, codeUrl }) {
         </div>
     );
 }
+export default ProjectCard;
