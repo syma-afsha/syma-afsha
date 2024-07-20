@@ -63,7 +63,7 @@ import './project.css'; // Import your CSS here
 import pick from "./image/pick.png"
 import iot from "./image/iot_website_view.png"
 import iceeict from "./image/iceeict.png"
-import rose from "./image/rosecafe.png"
+import rose from "./image/rose.png"
 function ProjectBody() {
     const projects = [
         { id: 1, title: 'DiscoverBot: Advancing Autonomous Exploration through Frontier and Informed-RRT* Fusion in TurtleBot. ',description: 'This project proposes a novel clustering and path-planning-based exploration method. It utilizes the Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm to identify and cluster frontiers. Effective exploration targets are selected based on minimum distance, entropy, and information gain. For path planning, the Informed-RRT* algorithm and Dubins path planning are employed, incorporating a heuristic to guide tree growth for shorter, more efficient paths. A pure pursuit controller ensures accurate and smooth path execution by the Mobile robot. ',imageUrl: p1, videoUrl: "https://www.youtube.com/watch?v=gOgusKA3tMA&t=1s" },
