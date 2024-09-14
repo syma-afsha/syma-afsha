@@ -11,12 +11,12 @@ export default function Rest(){
 
 
 
-                      <p style={{color: "white", fontFamily: "serif", fontSize:19}}>To follow my work at <a  style={{ color: "#FFFF00"}} href="https://www.researchgate.net/profile/Syma-Afsha" target="_blank">ResearchGate</a>.</p>
+                      <p style={{color: "white", fontFamily: "serif", fontSize:19}}>To follow my projects at <a  style={{ color: "#FFFF00"}} href="https://github.com/syma-afsha" target="_blank">GituHb</a>.</p>
                   <Row>
                   <Col xs={5} sm={5} lg={3} >
             <Link style={{color: "white", textDecoration: "none"}} to ="/about-me"><Button variant="outline-primary" style={{color:"white", fontSize: 18, textAlign: "center", width: 150, height: 50, fontFamily: "serif"}}className="home-button">Read More</Button></Link></Col>
             <Col xs={5} sm={5} lg={3} >
-            <a style={{color: "white", textDecoration: "none"}} href="https://drive.google.com/file/d/129mDal8P_cEGxH5xxcqBfxBRQvDptgJE/view?usp=sharing" target="_blank"> <Button variant="outline-primary" style={{color:"white", fontSize: 18, textAlign: "center", width: 150, height: 50, fontFamily: "serif", marginLeft: 25}}className="home-button">My Resume</Button></a></Col>
+            <a style={{color: "white", textDecoration: "none"}} href="https://drive.google.com/file/d/1BNJfhljpfxk6CkOFj2IjZmhDWqy0Xplo/view?usp=drive_link" target="_blank"> <Button variant="outline-primary" style={{color:"white", fontSize: 18, textAlign: "center", width: 150, height: 50, fontFamily: "serif", marginLeft: 25}}className="home-button">My Resume</Button></a></Col>
             
                   </Row>
                       

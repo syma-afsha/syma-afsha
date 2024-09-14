@@ -294,7 +294,7 @@ Company Limited (DESCO)</h><br/>
                             <img src= {EU} alt="EU" className="icon-about"  style={{marginLeft:30}}/>
                             </Col>
                             <Col xs={11} md={11} lg={11}>
-                            <p style={{marginRight:10}}> Awarded Erasmus Mundus Joint Masters Scholarship funded by European Union (EU).</p>
+                            <p style={{marginRight:10}}> Awarded Erasmus Mundus Joint Masters Scholarship funded by European Union (EU), securing 12th place out of 958 applicants.</p>
                                 </Col>
                         </Row>
                         <Row>
