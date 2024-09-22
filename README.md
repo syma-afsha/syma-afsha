@@ -9,7 +9,7 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 
 
 ![](https://komarev.com/ghpvc/?username=syma-afsha&label=PROFILE+VIEWS)
-![TurtleBot Autonomous Navigation](path/to/your-gif-file.gif)
+![TurtleBot Autonomous Navigation](https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/planning.gif))
 
 ## <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/ai.png" alt="LinkedIn" style="width:30px; height:30px;"> A Bit About Me
 ### 🌱 I’m Currently Learning
