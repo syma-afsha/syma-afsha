@@ -48,7 +48,8 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 ### 🌍 Visit My Personal Site
 For more about my projects, achievements, and professional journey, take a tour of my digital portfolio here: [Syma Afsha](https://syma-afsha.github.io/syma-afsha/).
 
-[![Watch the video]](https://youtu.be/UdHGAKapGNA.gif)
+[![TurtleBot Autonomous Navigation](https://img.youtube.com/vi/UdHGAKapGNA/0.jpg)](https://www.youtube.com/watch?v=UdHGAKapGNA)
+
 
 ## 📈 My GitHub Statistics
 ![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&theme=tokyonight)
