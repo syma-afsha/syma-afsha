@@ -9,6 +9,8 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 
 
 ![](https://komarev.com/ghpvc/?username=syma-afsha&label=PROFILE+VIEWS)
+![TurtleBot Autonomous Navigation](path/to/your-gif-file.gif)
+
 ## <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/ai.png" alt="LinkedIn" style="width:30px; height:30px;"> A Bit About Me
 ### 🌱 I’m Currently Learning
 - Vision Transformer.
@@ -47,8 +49,6 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 
 ### 🌍 Visit My Personal Site
 For more about my projects, achievements, and professional journey, take a tour of my digital portfolio here: [Syma Afsha](https://syma-afsha.github.io/syma-afsha/).
-
-[![TurtleBot Autonomous Navigation](https://img.youtube.com/vi/UdHGAKapGNA/0.jpg)](https://www.youtube.com/watch?v=UdHGAKapGNA)
 
 
 ## 📈 My GitHub Statistics
