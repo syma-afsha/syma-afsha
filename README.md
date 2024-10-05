@@ -57,6 +57,8 @@ Here are the main technologies, libraries, and tools I work with:
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+ <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img>
   <img src="https://img.shields.io/badge/Matplotlib-009688?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
 </p>
 
@@ -69,7 +71,7 @@ Here are the main technologies, libraries, and tools I work with:
   <img src="https://img.shields.io/badge/Gazebo-FFCB2E?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Gazebo"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Plotjuggler-61DAFB?style=for-the-badge" alt="Plotjuggler"/>
-  <img src="https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+  <img src="https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img
 </p>
 
 ---
