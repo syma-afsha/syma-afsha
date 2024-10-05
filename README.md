@@ -31,13 +31,13 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
     <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/googlescholar.png" alt="Google Scholar" style="width:30px; height:30px;">
 </a>
 
-# 🚀 Tech Stack & Tools
+### 🚀 Tech Stack & Tools
 
 Here are the main technologies, libraries, and tools I work with:
 
 ---
 
-### 🔧 Programming Languages
+#### 🔧 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -51,7 +51,7 @@ Here are the main technologies, libraries, and tools I work with:
 
 ---
 
-### 📚 Libraries
+#### 📚 Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
@@ -62,7 +62,7 @@ Here are the main technologies, libraries, and tools I work with:
 
 ---
 
-### 🛠️ Software and Tools
+#### 🛠️ Software and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
   <img src="https://img.shields.io/badge/Stonefish-008080?style=for-the-badge" alt="Stonefish"/>
@@ -74,7 +74,7 @@ Here are the main technologies, libraries, and tools I work with:
 
 ---
 
-### 🌐 Web Development
+#### 🌐 Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -84,7 +84,7 @@ Here are the main technologies, libraries, and tools I work with:
 
 ---
 
-### 📱 App Development
+#### 📱 App Development
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
@@ -92,7 +92,7 @@ Here are the main technologies, libraries, and tools I work with:
 
 ---
 
-### 🗂️ Version Control
+#### 🗂️ Version Control
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
