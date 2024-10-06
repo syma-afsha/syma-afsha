@@ -12,6 +12,7 @@ import AK from "./image/AKK.png";
 import Cap from "./image/cap.png"
 import IFROS from "./image/IFROS.png"
 
+
 export default function AboutBody() {
 
     const [ToggleState, setToggleState] = useState(1);
@@ -67,8 +68,11 @@ export default function AboutBody() {
                             
                             <p style={{marginLeft:55}}>IFRos Master programme is coordinated by the Universitat de Girona (UdG, Spain) together with the University of Zagreb (UNIZG, Croatia) and the Eötvös Loránd University (ELTE, Hungary). </p>
                                     <p style={{marginLeft:55}}>Erasmus Mundus Joint Master in Intelligent Field Robotic Systems (IFRos)</p>
-
-                                    <p style={{marginLeft:55}}>Spain, Hungary</p>
+                                   
+                                    <p style={{marginLeft:55}}>Universitat de Girona (UdG), Spain </p>
+                                    <p style={{marginLeft:55}}>CGPA: 7.04/10.0 </p>
+                                    <p style={{marginLeft:55}}>Eötvös Loránd University (ELTE), Hungary (Ongoing third semester)
+                                    </p>
                                     <p style={{marginLeft:55}}><i>2023-2025</i></p>
                             
                                 
