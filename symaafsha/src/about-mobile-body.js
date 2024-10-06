@@ -30,11 +30,14 @@ export default function AboutMobileBody() {
                             <Col xs={12}>
                                 <h>   <u>Master of Science (M.Sc.)</u></h>
                                 
-                                <p style={{marginLeft:55}}>IFRos Master programme is coordinated by the Universitat de Girona (UdG, Spain) together with the University of Zagreb (UNIZG, Croatia) and the Eötvös Loránd University (ELTE, Hungary). </p>
-                                        <p style={{marginLeft:55}}>Erasmus Mundus Joint Master in Intelligent Field Robotic Systems(IFRos)</p>
-
-                                        <p style={{marginLeft:55}}>Europe</p>
-                                        <p style={{marginLeft:55}}><i>2023-2025</i></p>
+                                <p style={{marginLeft:55}}>Erasmus Mundus Joint Master in Intelligent Field Robotic Systems (IFRos)</p>
+                                   
+                                   <p style={{marginLeft:55}}>Universitat de Girona (UdG), Spain </p>
+                                   <p style={{marginLeft:55}}>CGPA: 7.04/10.0 </p>
+                                   <p style={{marginLeft:55}}>Eötvös Loránd University (ELTE), Hungary (Ongoing third semester)
+                                   </p>
+                                   <p style={{marginLeft:55}}><i>2023-2025</i></p>
+                           
                                 
                                 
                             </Col>
