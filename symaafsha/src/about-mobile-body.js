@@ -118,49 +118,27 @@ export default function AboutMobileBody() {
                             <h style={{ color: "#bcc4b7" }}>Version Control</h>: Git</p>
                         <p>
                             <h style={{ color: "#bcc4b7" }}>Computer Vision</h>: MATLAB, OpenCV</p> */}
-                        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '10px' }}>
-                            <div>
-                                <span style={{ color: "#bcc4b7" }}>
-                                <i className="fas fa-code"></i> Programming Languages:
-                                </span>
-                                <p>Python, C, C++, MATLAB, JavaScript, Dart, LATEX, Verilog HDL</p>
-                            </div>
-                            
-                            <div>
-                                <span style={{ color: "#bcc4b7" }}>
-                                <i className="fas fa-book"></i> Libraries:
-                                </span>
-                                <p>PyTorch, TensorFlow, OpenCV, Numpy, Pandas, Matplotlib</p>
-                            </div>
-                            
-                            <div>
-                                <span style={{ color: "#bcc4b7" }}>
-                                <i className="fas fa-cogs"></i> Software and Tools:
-                                </span>
-                                <p>ROS, Stonefish, Gazebo, Docker, Plotjuggler, AutoCAD</p>
-                            </div>
-                            
-                            <div>
-                                <span style={{ color: "#bcc4b7" }}>
-                                <i className="fas fa-globe"></i> Web Development:
-                                </span>
-                                <p>HTML, CSS, React.js, Bootstrap</p>
-                            </div>
+                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
+  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
+    Programming Languages: Python, C, C++, MATLAB, JavaScript, Dart, LATEX, Verilog HDL
+  </span>
+  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
+    Libraries: PyTorch, TensorFlow, OpenCV, Numpy, Pandas, Matplotlib
+  </span>
+  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
+    Software and Tools: ROS, Stonefish, Gazebo, Docker, Plotjuggler, AutoCAD
+  </span>
+  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
+    Web Development: HTML, CSS, React.js, Bootstrap
+  </span>
+  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
+    App Development: Flutter, Android Studio
+  </span>
+  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
+    Version Control: Git
+  </span>
+</div>
 
-                            <div>
-                                <span style={{ color: "#bcc4b7" }}>
-                                <i className="fas fa-mobile-alt"></i> App Development:
-                                </span>
-                                <p>Flutter, Android Studio</p>
-                            </div>
-
-                            <div>
-                                <span style={{ color: "#bcc4b7" }}>
-                                <i className="fas fa-code-branch"></i> Version Control:
-                                </span>
-                                <p>Git</p>
-                            </div>
-                            </div>
 
 
                         <h style={{ color: "#00FFFF"}}> <u>Selected Certifications:</u></h>
