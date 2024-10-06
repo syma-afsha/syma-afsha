@@ -118,27 +118,37 @@ export default function AboutMobileBody() {
                             <h style={{ color: "#bcc4b7" }}>Version Control</h>: Git</p>
                         <p>
                             <h style={{ color: "#bcc4b7" }}>Computer Vision</h>: MATLAB, OpenCV</p> */}
-                        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
-  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
-    Programming Languages: Python, C, C++, MATLAB, JavaScript, Dart, LATEX, Verilog HDL
-  </span>
-  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
-    Libraries: PyTorch, TensorFlow, OpenCV, Numpy, Pandas, Matplotlib
-  </span>
-  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
-    Software and Tools: ROS, Stonefish, Gazebo, Docker, Plotjuggler, AutoCAD
-  </span>
-  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
-    Web Development: HTML, CSS, React.js, Bootstrap
-  </span>
-  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
-    App Development: Flutter, Android Studio
-  </span>
-  <span style={{ backgroundColor: '#bcc4b7', padding: '5px 10px', borderRadius: '5px' }}>
-    Version Control: Git
-  </span>
-</div>
+                        <div style={{ borderLeft: '2px solid #bcc4b7', padding: '10px' }}>
+  <div style={{ marginLeft: '10px' }}>
+    <h4 style={{ color: '#bcc4b7' }}>Programming Languages</h4>
+    <p>Python, C, C++, MATLAB, JavaScript, Dart, LATEX, Verilog HDL</p>
+  </div>
+  
+  <div style={{ marginLeft: '10px', marginTop: '10px' }}>
+    <h4 style={{ color: '#bcc4b7' }}>Libraries</h4>
+    <p>PyTorch, TensorFlow, OpenCV, Numpy, Pandas, Matplotlib</p>
+  </div>
+  
+  <div style={{ marginLeft: '10px', marginTop: '10px' }}>
+    <h4 style={{ color: '#bcc4b7' }}>Software and Tools</h4>
+    <p>ROS, Stonefish, Gazebo, Docker, Plotjuggler, AutoCAD</p>
+  </div>
+  
+  <div style={{ marginLeft: '10px', marginTop: '10px' }}>
+    <h4 style={{ color: '#bcc4b7' }}>Web Development</h4>
+    <p>HTML, CSS, React.js, Bootstrap</p>
+  </div>
+  
+  <div style={{ marginLeft: '10px', marginTop: '10px' }}>
+    <h4 style={{ color: '#bcc4b7' }}>App Development</h4>
+    <p>Flutter, Android Studio</p>
+  </div>
 
+  <div style={{ marginLeft: '10px', marginTop: '10px' }}>
+    <h4 style={{ color: '#bcc4b7' }}>Version Control</h4>
+    <p>Git</p>
+  </div>
+</div>
 
 
                         <h style={{ color: "#00FFFF"}}> <u>Selected Certifications:</u></h>
