@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/syma-afsha/precache-manifest.35f10e3d1f76f7c35e322839bbb9853f.js"
+  "/syma-afsha/precache-manifest.96947313bc865abb04d16627ac8506e9.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "342a7388a10199522c89a57163ff57f7",
+    "revision": "80b1709c7b7cd1c15ffdc603fdb2cc00",
     "url": "/syma-afsha/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/syma-afsha/static/css/2.970e759d.chunk.css"
   },
   {
-    "revision": "fc1f1b5da91318b0c568",
+    "revision": "a4cf7ad53ea34c5ae6c2",
     "url": "/syma-afsha/static/css/main.f08465fa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/syma-afsha/static/js/2.ee1ba75e.chunk.js"
   },
   {
-    "revision": "fc1f1b5da91318b0c568",
-    "url": "/syma-afsha/static/js/main.5eca2b73.chunk.js"
+    "revision": "a4cf7ad53ea34c5ae6c2",
+    "url": "/syma-afsha/static/js/main.e19a8c3f.chunk.js"
   },
   {
     "revision": "bdaecfbbc82e7fb3b3f2",
