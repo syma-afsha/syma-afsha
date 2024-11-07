@@ -14,7 +14,7 @@ export default function HomeBody(){
       
       <Row>
 
-        <Col xs={12} md={5} lg={5} >
+        <Col xs={12} md={4} lg={4} >
 
           <Card className="home-card" style={{backgroundColor: "black"}} >
             <Card.Img
@@ -27,7 +27,7 @@ export default function HomeBody(){
 
         </Col>
        
-        <Col xs={12} md={5} lg={5} >
+        <Col xs={12} md={7} lg={7} >
          
         <Container>
             <Card.Body className='body-text'>
