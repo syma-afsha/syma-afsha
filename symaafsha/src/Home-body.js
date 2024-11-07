@@ -27,7 +27,7 @@ export default function HomeBody(){
 
         </Col>
        
-        <Col xs={12} md={7} lg={7} >
+        <Col xs={12} md={6} lg={6} >
          
         <Container>
             <Card.Body className='body-text'>
