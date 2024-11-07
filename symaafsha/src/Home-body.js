@@ -29,7 +29,7 @@ export default function HomeBody(){
        
         <Col xs={12} md={3} lg={3} >
          
-<Container>
+
             <Card.Body className='body-text'>
               <Card.Title className='about-title'style={{color: "white", fontFamily: "serif", fontSize:20}}><b> I am Syma Afsha, a Pioneering Robotics Engineer and Visionary Researcher.</b> </Card.Title>
               <br/>
@@ -44,7 +44,7 @@ For the first two semesters, I attended courses at the Universitat de Girona (Ud
           <Rest/>
         
             </Card.Body>
-        </Container>
+        
    
         </Col>
 
