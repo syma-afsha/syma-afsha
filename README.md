@@ -10,7 +10,6 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 
 ## <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/ai.png" alt="LinkedIn" style="width:30px; height:30px;"> A Bit About Me
 ### 🌱 I’m Currently Learning
-- Vision Transformer.
 - Reinforcement Learning.
 ### 🚀 I’m Looking to Collaborate On
 - Computer Vision Projects.
