@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/syma-afsha/static/css/main.d2d7dfc6.css",
-    "main.js": "/syma-afsha/static/js/main.bdc1134d.js",
+    "main.js": "/syma-afsha/static/js/main.3e25ea6e.js",
     "static/media/iot_website_view.png": "/syma-afsha/static/media/iot_website_view.44960278a477ee0c85fb.png",
     "static/media/iceeict.png": "/syma-afsha/static/media/iceeict.d541a927e883f1098ff6.png",
     "static/media/slam.png": "/syma-afsha/static/media/slam.0bf9d0902628dc25fb2d.png",
@@ -28,10 +28,10 @@
     "static/media/googlescholar.png": "/syma-afsha/static/media/googlescholar.8ceb28e2cbac988bb13f.png",
     "index.html": "/syma-afsha/index.html",
     "main.d2d7dfc6.css.map": "/syma-afsha/static/css/main.d2d7dfc6.css.map",
-    "main.bdc1134d.js.map": "/syma-afsha/static/js/main.bdc1134d.js.map"
+    "main.3e25ea6e.js.map": "/syma-afsha/static/js/main.3e25ea6e.js.map"
   },
   "entrypoints": [
     "static/css/main.d2d7dfc6.css",
-    "static/js/main.bdc1134d.js"
+    "static/js/main.3e25ea6e.js"
   ]
 }
