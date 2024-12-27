@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/syma-afsha/static/css/main.d2d7dfc6.css",
-    "main.js": "/syma-afsha/static/js/main.9127d1e9.js",
+    "main.js": "/syma-afsha/static/js/main.6bbfe5bd.js",
     "static/media/iot_website_view.png": "/syma-afsha/static/media/iot_website_view.44960278a477ee0c85fb.png",
     "static/media/pick.png": "/syma-afsha/static/media/pick.12e9c1bc59180264af36.png",
     "static/media/iceeict.png": "/syma-afsha/static/media/iceeict.d541a927e883f1098ff6.png",
@@ -12,12 +12,12 @@
     "static/media/cv.png": "/syma-afsha/static/media/cv.5df56981f540c2034939.png",
     "static/media/Aruco_Stonefish.png": "/syma-afsha/static/media/Aruco_Stonefish.2838bed0390e8f7986d6.png",
     "static/media/violent.png": "/syma-afsha/static/media/violent.f1d2af54f0f4cda7bf30.png",
+    "static/media/p3.png": "/syma-afsha/static/media/p3.e3803a24df68becea043.png",
     "static/media/MIST.png": "/syma-afsha/static/media/MIST.5a94c00ee1b82aaa0316.png",
     "static/media/test.png": "/syma-afsha/static/media/test.f332c9fa838503a06a0f.png",
     "static/media/badge.png": "/syma-afsha/static/media/badge.fe89623987083b159a8e.png",
     "static/media/github.png": "/syma-afsha/static/media/github.251d222ad80f9fc58461.png",
     "static/media/signpaper.jpg": "/syma-afsha/static/media/signpaper.cee20e28285ad08f50f6.jpg",
-    "static/media/tmpbehavior_tree.png": "/syma-afsha/static/media/tmpbehavior_tree.a61a330f230980b0d433.png",
     "static/media/footer-mail.png": "/syma-afsha/static/media/footer-mail.28a60d1295c7895a8dfd.png",
     "static/media/badge(1).png": "/syma-afsha/static/media/badge(1).0d9caf41dd4164898b00.png",
     "static/media/flowchart-new.png": "/syma-afsha/static/media/flowchart-new.11af6507761f736eb1f7.png",
@@ -30,10 +30,10 @@
     "static/media/googlescholar.png": "/syma-afsha/static/media/googlescholar.8ceb28e2cbac988bb13f.png",
     "index.html": "/syma-afsha/index.html",
     "main.d2d7dfc6.css.map": "/syma-afsha/static/css/main.d2d7dfc6.css.map",
-    "main.9127d1e9.js.map": "/syma-afsha/static/js/main.9127d1e9.js.map"
+    "main.6bbfe5bd.js.map": "/syma-afsha/static/js/main.6bbfe5bd.js.map"
   },
   "entrypoints": [
     "static/css/main.d2d7dfc6.css",
-    "static/js/main.9127d1e9.js"
+    "static/js/main.6bbfe5bd.js"
   ]
 }
