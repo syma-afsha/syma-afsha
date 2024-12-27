@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/syma-afsha/static/css/main.d2d7dfc6.css",
-    "main.js": "/syma-afsha/static/js/main.6bbfe5bd.js",
+    "main.js": "/syma-afsha/static/js/main.a578ce0f.js",
     "static/media/iot_website_view.png": "/syma-afsha/static/media/iot_website_view.44960278a477ee0c85fb.png",
     "static/media/pick.png": "/syma-afsha/static/media/pick.12e9c1bc59180264af36.png",
     "static/media/iceeict.png": "/syma-afsha/static/media/iceeict.d541a927e883f1098ff6.png",
@@ -16,6 +16,7 @@
     "static/media/MIST.png": "/syma-afsha/static/media/MIST.5a94c00ee1b82aaa0316.png",
     "static/media/test.png": "/syma-afsha/static/media/test.f332c9fa838503a06a0f.png",
     "static/media/badge.png": "/syma-afsha/static/media/badge.fe89623987083b159a8e.png",
+    "static/media/best_fitted_circle.png": "/syma-afsha/static/media/best_fitted_circle.7a0397398e6d5f7b55b1.png",
     "static/media/github.png": "/syma-afsha/static/media/github.251d222ad80f9fc58461.png",
     "static/media/signpaper.jpg": "/syma-afsha/static/media/signpaper.cee20e28285ad08f50f6.jpg",
     "static/media/footer-mail.png": "/syma-afsha/static/media/footer-mail.28a60d1295c7895a8dfd.png",
@@ -30,10 +31,10 @@
     "static/media/googlescholar.png": "/syma-afsha/static/media/googlescholar.8ceb28e2cbac988bb13f.png",
     "index.html": "/syma-afsha/index.html",
     "main.d2d7dfc6.css.map": "/syma-afsha/static/css/main.d2d7dfc6.css.map",
-    "main.6bbfe5bd.js.map": "/syma-afsha/static/js/main.6bbfe5bd.js.map"
+    "main.a578ce0f.js.map": "/syma-afsha/static/js/main.a578ce0f.js.map"
   },
   "entrypoints": [
     "static/css/main.d2d7dfc6.css",
-    "static/js/main.6bbfe5bd.js"
+    "static/js/main.a578ce0f.js"
   ]
 }
