@@ -13,7 +13,8 @@ Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build
 - Reinforcement Learning.
 ### 🚀 I’m Looking to Collaborate On
 - Computer Vision Projects.
-- Deep Learning Algorithms.
+- Deep Learning.
+- Reinforcement Learning.
 - Advanced Techniques in Path Planning.
 ### 📢 How to reach me: <a href="mailto:symaafsha.eece@gmail.com"><img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-mail.png" alt="Email" style="width:30px; height:30px;"></a>
 ### 🎉 Fun fact
