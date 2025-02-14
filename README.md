@@ -1,7 +1,7 @@
 ### Hello, World!👋 I'm Syma Afsha 🎈
 
 <div style="color: "red";">
-Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who loves to build robots that don’t just *move*—but **learn**, **adapt**, and **interact** with the world around them. From designing algorithms for precision navigation to teaching robots to “see” like humans bringing science fiction to life!
+Welcome to my corner of GitHub! 🌟 I am a Robotics Engineer who have always been fascinated by robots not just as machines that move, but as intelligent systems that learn, adapt, and interact with the world around them. From designing precision navigation algorithms to teaching robots to “see” like humans, I’m passionate about transforming futuristic ideas into real-world innovations.
 </div>
 
 
@@ -112,5 +112,5 @@ For more about my projects, achievements, and professional journey, take a tour 
 ![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&theme=tokyonight)
 
 <div style="color: #00BFFF;">
-<img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/robot.png" alt="LinkedIn" style="width:20px; height:20px;">  Thank you for stopping by! If you’re excited by the mix of tech and creativity, let’s chat and see what amazing things we can build together 🤝.
+<img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/robot.png" alt="LinkedIn" style="width:20px; height:20px;">  Thank you for stopping by! The intersection of robotics, AI, and real-world applications excites me every day. I’m always eager to connect with fellow innovators, researchers, and enthusiasts who share a passion for shaping the future of intelligent machines. If you’re excited by the mix of tech and creativity, let’s chat and see what amazing things we can build together 🤝.
 </div>
