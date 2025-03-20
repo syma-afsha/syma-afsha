@@ -108,10 +108,10 @@ Here are the main technologies, libraries, and tools I work with:
 ---
 
 ### 📊 Most Used Languages
-
+<p align="center">
 ![Syma's GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=syma-afsha&langs_count=8&layout=compact&theme=tokyonight)
-
-
+</p>
+    
 ### 🌍 Visit My Personal Site
 
 For more about my projects, achievements, and professional journey, take a tour of my digital portfolio here: [Syma Afsha](https://syma-afsha.github.io/syma-afsha/).
