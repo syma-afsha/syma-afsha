@@ -1,7 +1,7 @@
 ### Hello, World!👋 I'm Syma Afsha 🎈
 
 <div style="color: "red";">
-Welcome to my corner of GitHub! 🌟 I’m a Robotics Engineer exploring how robots can move beyond automation to true intelligence and adaptability. From designing precision navigation algorithms to teaching robots to “see” like humans, I’m passionate about transforming futuristic ideas into real-world innovations.
+Welcome to my corner of GitHub! 🌟 I’m a Robotics Engineer exploring how robots can move beyond automation to true intelligence and adaptability. From designing precision navigation systems to integrating computer vision and adaptive learning, I’m always looking for ways to push the boundaries of robotic autonomy.
 </div>
 
 
