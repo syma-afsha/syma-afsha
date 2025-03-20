@@ -1,5 +1,7 @@
 ### Hello, World!👋 I'm Syma Afsha 🎈
-
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red?logo=pytorch)
+![Robotics](https://img.shields.io/badge/Robotics-Autonomy-ff69b4?logo=robotframework)
 <div style="color: "red";">
 Welcome to my corner of GitHub! 🌟 I’m a Robotics Engineer exploring how robots can move beyond automation to true intelligence and adaptability. From designing precision navigation systems to integrating computer vision and adaptive learning, I’m always looking for ways to push the boundaries of robotic autonomy.
 </div>
