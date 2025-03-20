@@ -109,8 +109,7 @@ For more about my projects, achievements, and professional journey, take a tour 
 
 ## 📈 My GitHub Statistics
 ![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&theme=tokyonight)
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark)
 
 <div style="color: #00BFFF;">
 <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/robot.png" alt="LinkedIn" style="width:20px; height:20px;">  Thank you for stopping by! The intersection of robotics, AI, and real-world applications excites me every day. I’m always eager to connect with fellow innovators, researchers, and enthusiasts who share a passion for shaping the future of intelligent machines. If you’re excited by the mix of tech and creativity, let’s chat and see what amazing things we can build together 🤝.
