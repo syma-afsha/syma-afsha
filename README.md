@@ -35,74 +35,81 @@ Welcome to my corner of GitHub! 🌟 I’m a Robotics Engineer exploring how rob
 Here are the main technologies, libraries, and tools I work with:
 
 ---
-
+<!-- 🔧 Programming Languages -->
 #### 🔧 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/Verilog%20HDL-blue?style=for-the-badge" alt="Verilog HDL"/>
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Verilog-Logo.svg" alt="Verilog HDL" style="height:60px; margin:10px;"/>
 </p>
 
----
+<hr/>
 
+<!-- 📚 Libraries -->
 #### 📚 Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
- <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/> <img>
- <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img>
-  <img src="https://img.shields.io/badge/Matplotlib-009688?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/OpenCV_Logo.svg" alt="OpenCV" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Matplotlib_logo.svg" alt="Matplotlib" style="height:60px; margin:10px;"/>
 </p>
 
----
+<hr/>
 
+<!-- 🛠️ Software and Tools -->
 #### 🛠️ Software and Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/>
-  <img src="https://img.shields.io/badge/Stonefish-008080?style=for-the-badge" alt="Stonefish"/>
-  <img src="https://img.shields.io/badge/Gazebo-FFCB2E?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Gazebo"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Plotjuggler-61DAFB?style=for-the-badge" alt="Plotjuggler"/>
-  <img src="https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/MuJoCo-2F2F2F?style=for-the-badge&logo=Mujoco&logoColor=white" alt="MuJoCo"/>
-  <img src="https://img.shields.io/badge/Isaac%20Sim-00BFFF?style=for-the-badge&logo=Isaac%20Sim&logoColor=white" alt="Isaac Sim"/>
-  <img src="https://img.shields.io/badge/PyBullet-FF6F61?style=for-the-badge&logo=PyBullet&logoColor=white" alt="PyBullet"/>
-  <img src="https://img.shields.io/badge/Unity-333333?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/ROS_logo.svg" alt="ROS" style="height:60px; margin:10px;"/>
+  <!-- Placeholder for Stonefish (replace URL with an official logo if available) -->
+  <img src="https://via.placeholder.com/150?text=Stonefish" alt="Stonefish" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Gazebo_logo.svg" alt="Gazebo" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" style="height:60px; margin:10px;"/>
+  <!-- PlotJuggler logo from GitHub (if this link ever changes, replace with the current URL) -->
+  <img src="https://raw.githubusercontent.com/facontidavide/PlotJuggler/master/doc/logo.png" alt="PlotJuggler" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/AutoCAD_logo_2018.svg" alt="AutoCAD" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Anaconda_Logo.svg" alt="Anaconda" style="height:60px; margin:10px;"/>
+  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" style="height:60px; margin:10px;"/>
+  <img src="https://mujoco.org/assets/img/mjlogo.png" alt="MuJoCo" style="height:60px; margin:10px;"/>
+  <!-- Placeholder for Isaac Sim (replace URL with an official logo if available) -->
+  <img src="https://via.placeholder.com/150?text=Isaac+Sim" alt="Isaac Sim" style="height:60px; margin:10px;"/>
+  <img src="https://pybullet.org/media/pybullet_logo.png" alt="PyBullet" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" style="height:60px; margin:10px;"/>
 </p>
 
+<hr/>
 
----
-
+<!-- 🌐 Web Development -->
 #### 🌐 Web Development
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="height:60px; margin:10px;"/>
 </p>
 
----
+<hr/>
 
+<!-- 📱 App Development -->
 #### 📱 App Development
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" style="height:60px; margin:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Android_Studio_icon.svg" alt="Android Studio" style="height:60px; margin:10px;"/>
 </p>
 
----
+<hr/>
 
+<!-- 🗂️ Version Control -->
 #### 🗂️ Version Control
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" style="height:60px; margin:10px;"/>
 </p>
 
 ---
