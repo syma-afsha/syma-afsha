@@ -127,10 +127,9 @@ For more about my projects, achievements, and professional journey, take a tour 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syma-afsha&theme=dark)
 
-## 🐍 Contribution Snake
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake Animation
 <div align="center">
-  <img src="https://github.com/syma-afsha/syma-afsha/blob/main/dist/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
 
