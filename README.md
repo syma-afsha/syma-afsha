@@ -129,11 +129,6 @@ For more about my projects, achievements, and professional journey, take a tour 
 
 
 
-## 🐍 Contribution
-
-<div align="center">
-  <img src="https://github.com/syma-afsha/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg" />
-</div>
 
 
 
