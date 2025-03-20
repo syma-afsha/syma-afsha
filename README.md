@@ -110,7 +110,7 @@ Here are the main technologies, libraries, and tools I work with:
 ### 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syma-afsha&langs_count=8&layout=compact&theme=dracula" width="600px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syma-afsha&langs_count=8&layout=compact&theme=dracula" width="400px">
 </div>
 
 
