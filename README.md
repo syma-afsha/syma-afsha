@@ -107,7 +107,7 @@ Here are the main technologies, libraries, and tools I work with:
 
 ---
 
-## 📊 Most Used Languages
+### 📊 Most Used Languages
 <p align="center">
   <a href="https://github.com/your-github-username">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syma-afsha&langs_count=8&layout=compact&theme=tokyonight" alt="Most Used Languages" />
