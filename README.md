@@ -107,8 +107,19 @@ Here are the main technologies, libraries, and tools I work with:
 
 ---
 
+## 📊 Most Used Languages
+<p align="center">
+  <a href="https://github.com/your-github-username">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syma-afsha&langs_count=8&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  </a>
+</p>
+
+
 ### 🌍 Visit My Personal Site
+
 For more about my projects, achievements, and professional journey, take a tour of my digital portfolio here: [Syma Afsha](https://syma-afsha.github.io/syma-afsha/).
+
+
 <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/planning.gif" alt="TurtleBot Autonomous Navigation" width="400" height="600">
 <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/scout.gif" alt="Scout Autonomous Navigation" width="400" height="600">
 
