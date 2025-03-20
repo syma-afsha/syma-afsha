@@ -70,8 +70,15 @@ Here are the main technologies, libraries, and tools I work with:
   <img src="https://img.shields.io/badge/Gazebo-FFCB2E?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Gazebo"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Plotjuggler-61DAFB?style=for-the-badge" alt="Plotjuggler"/>
-  <img src="https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img
+  <img src="https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/MuJoCo-2F2F2F?style=for-the-badge&logo=Mujoco&logoColor=white" alt="MuJoCo"/>
+  <img src="https://img.shields.io/badge/Isaac%20Sim-00BFFF?style=for-the-badge&logo=Isaac%20Sim&logoColor=white" alt="Isaac Sim"/>
+  <img src="https://img.shields.io/badge/PyBullet-FF6F61?style=for-the-badge&logo=PyBullet&logoColor=white" alt="PyBullet"/>
+  <img src="https://img.shields.io/badge/Unity-333333?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 </p>
+
 
 ---
 
