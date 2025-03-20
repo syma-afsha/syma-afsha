@@ -36,81 +36,217 @@ Here are the main technologies, libraries, and tools I work with:
 
 ---
 <!-- 🔧 Programming Languages -->
-#### 🔧 Programming Languages
-<p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Verilog-Logo.svg" alt="Verilog HDL" style="height:60px; margin:10px;"/>
-</p>
+<h3>🔧 Programming Languages</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" style="height:60px;"/>
+    <br>
+    <span>Python</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" style="height:60px;"/>
+    <br>
+    <span>C</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="height:60px;"/>
+    <br>
+    <span>C++</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" style="height:60px;"/>
+    <br>
+    <span>MATLAB</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height:60px;"/>
+    <br>
+    <span>JavaScript</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" style="height:60px;"/>
+    <br>
+    <span>Dart</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" style="height:60px;"/>
+    <br>
+    <span>LaTeX</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Verilog-Logo.svg" alt="Verilog HDL" style="height:60px;"/>
+    <br>
+    <span>Verilog HDL</span>
+  </div>
+</div>
 
 <hr/>
 
 <!-- 📚 Libraries -->
-#### 📚 Libraries
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/OpenCV_Logo.svg" alt="OpenCV" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Matplotlib_logo.svg" alt="Matplotlib" style="height:60px; margin:10px;"/>
-</p>
+<h3>📚 Libraries</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" style="height:60px;"/>
+    <br>
+    <span>PyTorch</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" style="height:60px;"/>
+    <br>
+    <span>TensorFlow</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/OpenCV_Logo.svg" alt="OpenCV" style="height:60px;"/>
+    <br>
+    <span>OpenCV</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" style="height:60px;"/>
+    <br>
+    <span>Numpy</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" style="height:60px;"/>
+    <br>
+    <span>Keras</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" style="height:60px;"/>
+    <br>
+    <span>Pandas</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Matplotlib_logo.svg" alt="Matplotlib" style="height:60px;"/>
+    <br>
+    <span>Matplotlib</span>
+  </div>
+</div>
 
 <hr/>
 
 <!-- 🛠️ Software and Tools -->
-#### 🛠️ Software and Tools
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/ROS_logo.svg" alt="ROS" style="height:60px; margin:10px;"/>
-  <!-- Placeholder for Stonefish (replace URL with an official logo if available) -->
-  <img src="https://via.placeholder.com/150?text=Stonefish" alt="Stonefish" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Gazebo_logo.svg" alt="Gazebo" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" style="height:60px; margin:10px;"/>
-  <!-- PlotJuggler logo from GitHub (if this link ever changes, replace with the current URL) -->
-  <img src="https://raw.githubusercontent.com/facontidavide/PlotJuggler/master/doc/logo.png" alt="PlotJuggler" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/AutoCAD_logo_2018.svg" alt="AutoCAD" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Anaconda_Logo.svg" alt="Anaconda" style="height:60px; margin:10px;"/>
-  <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" style="height:60px; margin:10px;"/>
-  <img src="https://mujoco.org/assets/img/mjlogo.png" alt="MuJoCo" style="height:60px; margin:10px;"/>
-  <!-- Placeholder for Isaac Sim (replace URL with an official logo if available) -->
-  <img src="https://via.placeholder.com/150?text=Isaac+Sim" alt="Isaac Sim" style="height:60px; margin:10px;"/>
-  <img src="https://pybullet.org/media/pybullet_logo.png" alt="PyBullet" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" style="height:60px; margin:10px;"/>
-</p>
+<h3>🛠️ Software and Tools</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/ROS_logo.svg" alt="ROS" style="height:60px;"/>
+    <br>
+    <span>ROS</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <!-- Placeholder for Stonefish -->
+    <img src="https://via.placeholder.com/150?text=Stonefish" alt="Stonefish" style="height:60px;"/>
+    <br>
+    <span>Stonefish</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Gazebo_logo.svg" alt="Gazebo" style="height:60px;"/>
+    <br>
+    <span>Gazebo</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" style="height:60px;"/>
+    <br>
+    <span>Docker</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/facontidavide/PlotJuggler/master/doc/logo.png" alt="PlotJuggler" style="height:60px;"/>
+    <br>
+    <span>PlotJuggler</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/AutoCAD_logo_2018.svg" alt="AutoCAD" style="height:60px;"/>
+    <br>
+    <span>AutoCAD</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Anaconda_Logo.svg" alt="Anaconda" style="height:60px;"/>
+    <br>
+    <span>Anaconda</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" style="height:60px;"/>
+    <br>
+    <span>Jupyter</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://mujoco.org/assets/img/mjlogo.png" alt="MuJoCo" style="height:60px;"/>
+    <br>
+    <span>MuJoCo</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <!-- Placeholder for Isaac Sim -->
+    <img src="https://via.placeholder.com/150?text=Isaac+Sim" alt="Isaac Sim" style="height:60px;"/>
+    <br>
+    <span>Isaac Sim</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://pybullet.org/media/pybullet_logo.png" alt="PyBullet" style="height:60px;"/>
+    <br>
+    <span>PyBullet</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity" style="height:60px;"/>
+    <br>
+    <span>Unity</span>
+  </div>
+</div>
 
 <hr/>
 
 <!-- 🌐 Web Development -->
-#### 🌐 Web Development
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="height:60px; margin:10px;"/>
-</p>
+<h3>🌐 Web Development</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" style="height:60px;"/>
+    <br>
+    <span>HTML5</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" style="height:60px;"/>
+    <br>
+    <span>CSS3</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="height:60px;"/>
+    <br>
+    <span>React</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="height:60px;"/>
+    <br>
+    <span>Bootstrap</span>
+  </div>
+</div>
 
 <hr/>
 
 <!-- 📱 App Development -->
-#### 📱 App Development
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" style="height:60px; margin:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Android_Studio_icon.svg" alt="Android Studio" style="height:60px; margin:10px;"/>
-</p>
+<h3>📱 App Development</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" style="height:60px;"/>
+    <br>
+    <span>Flutter</span>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Android_Studio_icon.svg" alt="Android Studio" style="height:60px;"/>
+    <br>
+    <span>Android Studio</span>
+  </div>
+</div>
 
 <hr/>
 
 <!-- 🗂️ Version Control -->
-#### 🗂️ Version Control
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" style="height:60px; margin:10px;"/>
-</p>
+<h3>🗂️ Version Control</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" style="height:60px;"/>
+    <br>
+    <span>Git</span>
+  </div>
+</div>
+
 
 ---
 
