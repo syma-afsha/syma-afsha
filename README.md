@@ -135,8 +135,6 @@ For more about my projects, achievements, and professional journey, take a tour 
 
 
 
-
-
 <div style="color: #00BFFF;">
 <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/robot.png" alt="LinkedIn" style="width:20px; height:20px;">  Thank you for stopping by! The intersection of robotics, AI, and real-world applications excites me every day. I’m always eager to connect with fellow innovators, researchers, and enthusiasts who share a passion for shaping the future of intelligent machines. If you’re excited by the mix of tech and creativity, let’s chat and see what amazing things we can build together 🤝.
 </div>
