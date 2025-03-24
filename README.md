@@ -128,7 +128,8 @@ For more about my projects, achievements, and professional journey, take a tour 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syma-afsha&theme=dark)
 
 
-🕹️ Play my Snake game here → https://snake.github.io
+🕹️ [![Play GitHub Snake](https://img.shields.io/badge/🐍-Play%20Snake-blue?logo=github&style=for-the-badge)](https://snake.github.io/)
+
 
 
 
