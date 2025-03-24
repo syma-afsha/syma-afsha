@@ -1,1 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Snake Game</title>
+  <style>
+    canvas { background:#f0f0f0; display:block; margin:auto; }
+  </style>
+</head>
+<body>
+  <canvas id="game" width="400" height="400"></canvas>
+  <script>
+    const canvas = document.getElementById('game'),
+          ctx = canvas.getContext('2d'),
+          grid = 20;
+    let snake = [{x:160,y:200}], dir={x:grid,y:0}, food={};
+    function rand() { return Math.floor(Math.random()*20)*grid; }
+    function spawnFood() { food={x:rand(), y:rand()}; }
+    function game() {
+      // move
+      const head = {...snake[0], x: snake[0].x+dir.x, y: snake[0].y+dir.y};
+      if (head.x<0||head.x>=400||head.y<0||head.y>=400||snake.some(s=>s.x===head.x&&s.y===head.y))
+        return alert('Game Over');
+      snake.unshift(head);
+      if (head.x===food.x && head.y===food.y) spawnFood();
+      else snake.pop();
+      // draw
+      ctx.clearRect(0,0,400,400);
+      ctx.fillStyle='red'; ctx.fillRect(food.x,food.y,grid,grid);
+      ctx.fillStyle='green';
+      snake.forEach(s=>ctx.fillRect(s.x,s.y,grid-1,grid-1));
+    }
+    document.addEventListener('keydown', e => {
+      if (e.key==='ArrowUp'&&dir.y===0) dir={x:0,y:-grid};
+      if (e.key==='ArrowDown'&&dir.y===0) dir={x:0,y:grid};
+      if (e.key==='ArrowLeft'&&dir.x===0) dir={x:-grid,y:0};
+      if (e.key==='ArrowRight'&&dir.x===0) dir={x:grid,y:0};
+    });
+    spawnFood();
+    setInterval(game,100);
+  </script>
+</body>
+</html>
 
