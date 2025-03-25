@@ -16,7 +16,7 @@ Welcome to my corner of GitHub! 🌟 I’m a Robotics Engineer exploring how rob
 - Reinforcement Learning.
 - Advanced Techniques in Path Planning.
 ### 📢 How to reach me: <a href="mailto:symaafsha.eece@gmail.com"><img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/footer-mail.png" alt="Email" style="width:30px; height:30px;"></a>
-### 🎉 Fun fact
+### 🎉 Fun facts about me
 - I love making websites.
 - I like to travel and take beautiful pictures.
 ### 📫 Connect with Me
