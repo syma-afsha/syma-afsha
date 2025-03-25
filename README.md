@@ -11,7 +11,6 @@ Welcome to my corner of GitHub! 🌟 I’m a Robotics Engineer exploring how rob
 ### 🌱 I’m Currently Learning
 - Reinforcement Learning.
 ### 🚀 I’m Looking to Collaborate On
-- Computer Vision Projects.
 - Deep Learning.
 - Reinforcement Learning.
 - Advanced Techniques in Path Planning.
