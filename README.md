@@ -2,7 +2,7 @@
 
 <div style="color: "red";">
 Welcome to my corner of GitHub! 🌟 
-I’m passionate about building intelligent systems that learn, adapt, and evolve.From exploring deep reinforcement learning to integrating computer vision and robotic control, I work at the intersection of AI and robotics to create smart, autonomous machines.
+I’m passionate about building intelligent systems that learn, adapt, and evolve. From exploring deep reinforcement learning to integrating computer vision and robotic control, I work at the intersection of AI and robotics to create smart, autonomous machines.
 </div>
 
 
