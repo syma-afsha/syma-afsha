@@ -1,7 +1,9 @@
 <img src="symaafsha/public/AD2A3FF7-8F07-4DC3-8D1F-3756B1DF1D45.png"/>
 
 <div style="color: "red";">
-Welcome to my corner of GitHub! 🌟 I’m a Robotics Engineer exploring how robots can move beyond automation to true intelligence and adaptability. From designing precision navigation systems to integrating computer vision and adaptive learning, I’m always looking for ways to push the boundaries of robotic autonomy.
+Welcome to my corner of GitHub! 🌟 Welcome to my corner of GitHub!
+I’m passionate about building intelligent systems that learn, adapt, and evolve.
+From exploring deep reinforcement learning to integrating computer vision and robotic control, I work at the intersection of AI and robotics to create smart, autonomous machines.
 </div>
 
 
