@@ -122,6 +122,7 @@ Here are the main technologies, libraries, and tools I work with:
 
 
 
+
 <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/planning.gif" alt="TurtleBot Autonomous Navigation" width="400" height="600"> <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/scout.gif" alt="Scout Autonomous Navigation" width="400" height="600">
 
 ### 🌍 Visit My Personal Site
