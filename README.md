@@ -116,10 +116,9 @@ Here are the main technologies, libraries, and tools I work with:
 
 
 ## 📈 My GitHub Statistics
-![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&layout=compact&card_width=320&theme=dark)
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=syma-afsha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&layout=compact&card_width=320&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syma-afsha&theme=dark)](https://git.io/streak-stats)
+
+
 
 
 
