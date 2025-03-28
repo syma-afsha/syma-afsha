@@ -116,7 +116,7 @@ Here are the main technologies, libraries, and tools I work with:
 
 
 ## 📈 My GitHub Statistics
-![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&layout=compact&card_width=320&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syma-afsha&theme=dark)](https://git.io/streak-stats)
+![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&layout=compact&card_width=320&theme=dark)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syma-afsha&theme=dark&card_width=320)](https://git.io/streak-stats)
 
 
 
