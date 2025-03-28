@@ -138,6 +138,7 @@ For more about my projects, achievements, and professional journey, take a tour 
 
 
 <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/syma-afsha/syma-afsha/blob/output/pacman-contribution-graph-dark.svg"/>
 
   <img alt="pacman contribution graph" src="https://github.com/syma-afsha/syma-afsha/blob/output/pacman-contribution-graph-dark.svg">
 </picture>
