@@ -116,7 +116,7 @@ Here are the main technologies, libraries, and tools I work with:
 
 
 ## 📈 My GitHub Statistics
-![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&layout=compact&card_width=320&theme=dark)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syma-afsha&layout=compact&card_width=320&theme=dark)
+![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&layout=compact&card_width=320&theme=dark)<img src="https://streak-stats.demolab.com?user=syma-afsha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
 <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/planning.gif" alt="TurtleBot Autonomous Navigation" width="400" height="600"> <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/scout.gif" alt="Scout Autonomous Navigation" width="400" height="600">
 
