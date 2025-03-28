@@ -111,7 +111,7 @@ Here are the main technologies, libraries, and tools I work with:
 ### 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syma-afsha&langs_count=8&layout=compact&theme=dracula" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syma-afsha&langs_count=8&layout=compact&theme=dracula&hide_border=false" width="400px">
 </div>
 
 
@@ -124,7 +124,7 @@ For more about my projects, achievements, and professional journey, take a tour 
 
 
 ## 📈 My GitHub Statistics
-![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&theme=dracula&locale=en&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syma-afsha&theme=dark)
+![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&theme=dracula&locale=en&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syma-afsha&theme=dracula&hide_border=false)
 
 
 
