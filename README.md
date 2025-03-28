@@ -124,7 +124,7 @@ For more about my projects, achievements, and professional journey, take a tour 
 
 
 ## 📈 My GitHub Statistics
-![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&theme=dracula&locale=en&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syma-afsha&theme=dracula&hide_border=false)
+![Syma's GitHub stats](https://github-readme-stats.vercel.app/api?username=syma-afsha&show_icons=true&theme=dracula&locale=en&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syma-afsha&theme=dracula)
 
 
 
