@@ -128,7 +128,7 @@ For more about my projects, achievements, and professional journey, take a tour 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syma-afsha&theme=dark)
 
-![Snake Animation](https://raw.githubusercontent.com/syma-afsha/syma-afsha/output/github-contribution-grid-snake.svg)
+![Snake Animation]([https://raw.githubusercontent.com/syma-afsha/syma-afsha/output/github-contribution-grid-snake.svg](https://github.com/syma-afsha/syma-afsha/blob/syma-afsha-patch-2/symaafsha/github-contribution-grid-snake.svg))
 
 
 
