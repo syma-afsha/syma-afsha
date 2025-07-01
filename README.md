@@ -12,6 +12,7 @@ I’m passionate about building intelligent systems that learn, adapt, and evolv
 ## <img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/ai.png" alt="LinkedIn" style="width:30px; height:30px;"> A Bit About Me
 ### 🌱 I’m Currently Learning
 - Reinforcement Learning.
+- LLM
 ### 🚀 I’m Looking to Collaborate On
 - Deep Learning.
 - Reinforcement Learning.
