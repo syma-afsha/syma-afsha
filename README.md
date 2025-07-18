@@ -1,4 +1,4 @@
-<img src="symaafsha/public/AD2A3FF7-8F07-4DC3-8D1F-3756B1DF1D45.png"/>
+<img src="https://github.com/syma-afsha/syma-afsha/blob/main/symaafsha/src/image/hi.png"/>
 
 <div style="color: "red";">
 Welcome to my corner of GitHub! 🌟 
